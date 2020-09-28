@@ -1,0 +1,62 @@
+The scientists have discovered something terrible .
+------------------------------------------------------
+Output: 1
+The scientists have discovered something terrible ...
+
+
+They know that the world will soon end.
+
+
+I know, too... because I've seen it happen.
+
+
+I've been through Hell and back, and I've seen it all.
+
+
+Now, a man is planning to end it all for good, and with a single push, I know exactly what he's planning.
+
+
+The world will end with a bang, and the only survivors will be the lucky ones left.
+
+
+In that world, nothing can go wrong...
+
+
+...unless it does.<|endoftext|>
+
+------------------------------------------------------
+Output: 3
+The scientists have discovered something terrible ...
+
+The research team has determined that after 10,000 years, only the most advanced life forms ever seen in the universe will still exist in the universe today.
+
+The discovery will change everything that we know about the origins and fate of the universe. This will revolutionise the entire field of astrobiology.
+
+A team of international scientists has made a startling discovery, which threatens to change the future of astronomy, cosmology, astrophysics and the study of life on Earth forever. Their findings suggest there is an even more extreme version of life existing in our own galaxy.
+
+Until now, scientists have always assumed that the most powerful forms of life that exist in the universe would have
+
+------------------------------------------------------
+Output: 4
+The scientists have discovered something terrible ... something that was not meant to happen."
+
+Now, they say, there's no reason why scientists can't use the same technology, and the same methods, to prevent catastrophic climate change.
+
+"We thought that we were going to have to make the difficult transition. We didn't want to use the technology to create more carbon dioxide."
+
+The scientists also say that their methods can be applied at the "pipeline" level, to reduce emissions from coal and oil power plants, and to reduce methane emissions from landfills and biofuel plants that burn natural gas.
+
+"That's a more cost-effective way to reduce emissions, and actually, there is no downside
+
+==========================================================
+From Paper 2
+The scientist stood there, a little dazed as he stared.
+“What is it?” He asked.
+“This...this...Thing...This is a virus. A chemical that can destroy entire planet and it is a very small, complex, chemical that
+could destroy any planet.” The scientist replied. His lab assistant looked down at the tablet.
+“I’ve just discovered it. I can’t believe it. It looks like it’s made of some sort of chemical that’s very dangerous.”
+“ Well, there’s a virus on the ground. It’s very effective...” “ I can’t believe what it is.” he said, pointing to the scientist .
+“ We don’t know what this thing is. We haven’t seen anything like it . We can’t even see anything like this. ” Dr. Jones
+stared at the scientist for a moment.
+“What do you mean what does it do ?”
+“It...It ’s a monster.”
