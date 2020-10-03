@@ -1,0 +1,4 @@
+Once upon a time, there was an evil king.
+------------------------------------------------------
+Output:
+Once upon a time, there was an evil king. For this prince , he would conquer, he was called V. He would set up a stronghold , in his territory and be ____
