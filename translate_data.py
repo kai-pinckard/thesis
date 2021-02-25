@@ -1,6 +1,9 @@
 from googletrans import Translator
-
-
+import gensim.downloader as api
+import re
+print("loading word2vec")
+wv = api.load('word2vec-google-news-300')
+print("finished loading")
 translation_language = "es"
 
 translator = Translator()
@@ -11,28 +14,64 @@ def translate_sentence_to(sent, lang):
 def translate_sentence_from(sent, lang):
     return translator.translate(sent, src=lang, dest="en")
 
+# rename to reword chunk
 def reword_sentence(sent, lang):
     sent = translate_sentence_to(sent, lang)
-    print(sent.text)
+    #print(sent.text)
     sent = translate_sentence_from(sent.text, lang)
-    print(sent.text)
+    #print(sent.text)
     return sent.text
 
-"""
-this works! Note that you need to remove all punctuation from the words otherwise it will
-crash by saying that the word is not in the vocabulary.
-from gensim.models import Word2Vec
+# uses word to vec to find the closest word to the e1/e2 contents when the translated words are not an exact match.
+def get_closest_word(sent, word):
+    sent = re.sub(r'[^\w\s]','', sent)
 
-import gensim.downloader as api
-wv = api.load('word2vec-google-news-300')
+    best_match_index = -1
+    best_match = -1
+    sent_words = sent.split()
+
+    for i, w in enumerate(sent_words):
+        
+        if w in wv.vocab:
+            similarity = wv.similarity(word, w)
+            print(word, w, similarity)
+            if similarity >= best_match:
+                best_match_index = i
+                best_match = similarity
+    print("e1: ", word, "best_match in sent", sent_words[best_match_index])
+    return sent_words[best_match_index], best_match
 
 
-sente = "the baby cried in its crib"
-for word in sente.split():
-    print(word, "cradle")
-    print(wv.similarity(word, "cradle"))
-"""
+# ensures that the e1 and e2 contents are exactly contained inside the sentence
+def validate_translation(datapoint):
 
+    # use this value to set the minimum threshold for similarity between e1 contents and the best match 
+    # in the sentence. if the best match is less similar than the threshold the datapoint will not be kept.
+    # this is not yet implemented
+    SIMILARITY_THRESHOLD = 0.1
+
+    sent = datapoint["sent"]
+    e1 = datapoint["e1_contents"]
+    e2 = datapoint["e2_contents"]
+
+    # This is a bad translation and it can not be fixed
+    discard = False
+
+    if sent.find(e1) == -1:
+        if len(e1.split()) > 1:
+            discard = True
+        else:
+            closest_word, match_quality = get_closest_word(sent, e1)
+            datapoint["e1_contents"] = closest_word
+    if sent.find(e2) == -1:
+        if len(e2.split()) > 1:
+            discard = True
+        else:
+            closest_word, match_quality = get_closest_word(sent, e2)
+            datapoint["e2_contents"] = closest_word
+
+    return datapoint, discard
+  
 if __name__ == "__main__":
 
     import json
@@ -40,10 +79,23 @@ if __name__ == "__main__":
         dataset = json.load(f)
 
     #print(len(dataset))
-    dataset = dataset[:2]
+    dataset = dataset[:53]
     #print(dataset)
     reworded_data = []
     translation_language = "es"
+
+    # temporarily change sent to *** so it will not be translated
+    for i, datapoint in enumerate(dataset):
+        dataset[i]["1"] = datapoint["sent"]
+        dataset[i].pop("sent")
+        dataset[i]["2"] = datapoint["relation_type"]
+        dataset[i].pop("relation_type")
+        dataset[i]["3"] = datapoint["is_active"]
+        dataset[i].pop("is_active")
+        dataset[i]["4"] = datapoint["e1_contents"]
+        dataset[i].pop("e1_contents")
+        dataset[i]["5"] = datapoint["e2_contents"]
+        dataset[i].pop("e2_contents")
 
     # split the json file into chunks
     data_chunks = []
@@ -56,19 +108,61 @@ if __name__ == "__main__":
             data_chunk = ""
         data_point_str = json.dumps(data_point)
         data_chunk += data_point_str + ",\n"
-
-    if data_chunk.endswith(","):
-        data_chunk = data_chunk[:-1]
     data_chunks.append(data_chunk)
 
-    #print(data_chunks)
+    # remove all characters after the last } for proper json formatting
+    for i, data_chunk in enumerate(data_chunks):
+        data_chunks[i] = data_chunks[i][:data_chunk.rfind("}") + 1]
+
+    print(data_chunks)
     reworded_data = []
     for chunk in data_chunks:
-        reworded_data.append(json.loads(reword_sentence(chunk, translation_language)))
+        #st = "[\n" + reword_sentence(chunk, translation_language) + "\n]"
+        #print(st)
+        #print(st[216])
+        #json.loads(st)
+        json_text = "[\n" + reword_sentence(chunk, translation_language) + "\n]"
+        json_text = json_text.replace(" \"", "\"")
+        json_text = json_text.replace("\" ", "\"")
+        print("++", json_text)
+        reworded_data.append( json.loads(json_text) )
+    print("-----------------------------------------------")
+    print(reworded_data)
+
+    #flatten the list
+    flattened_data = []
+    for data_list in reworded_data:
+        for data in data_list:
+            flattened_data.append(data)
+
+    print("===================",flattened_data)
+    # convert temporary keys back to old keys
+    for i, datapoint in enumerate(flattened_data):
+        flattened_data[i]["sent"] = flattened_data[i]["1"]
+        flattened_data[i].pop("1")
+        flattened_data[i]["relation_type"] = flattened_data[i]["2"]
+        flattened_data[i].pop("2")
+        flattened_data[i]["is_active"] = flattened_data[i]["3"]
+        flattened_data[i].pop("3")
+        print("---------------------",flattened_data[i])
+        flattened_data[i]["e1_contents"] = flattened_data[i]["4"]
+        flattened_data[i].pop("4")
+        flattened_data[i]["e2_contents"] = flattened_data[i]["5"]
+        flattened_data[i].pop("5")
 
 
-    #print(reworded_data)
+    omitted = []
+    print("-------------")
+    for i, datapoint in enumerate(flattened_data):
+        print(datapoint)
+        flattened_data[i], should_discard = validate_translation(datapoint)
+        if should_discard is True:
+            omitted.append(flattened_data[i])
+            del flattened_data[i]
+    print("-----------------------------------------------")
+    print(omitted)
+    print("generated", len(flattened_data), "datapoints")
     with open(".\\classifier\\semeval2010task8\\augmented.json", "w") as f:
-        json.dump(reworded_data, f, indent=4)
+        json.dump(flattened_data, f, indent=4)
 
     #print(reword_sentence("hi there", "es"))
