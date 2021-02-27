@@ -1,4 +1,6 @@
-from googletrans import Translator
+from google.cloud import translate_v2 as translate
+translate_client = translate.Client()
+import six
 import gensim.downloader as api
 import re
 print("loading word2vec")
@@ -6,21 +8,24 @@ wv = api.load('word2vec-google-news-300')
 print("finished loading")
 translation_language = "es"
 
-translator = Translator()
-
+# these are actually used to translate chunks
 def translate_sentence_to(sent, lang):
-    return translator.translate(sent, dest=lang)
+    if isinstance(sent, six.binary_type):
+        sent = sent.decode("utf-8")
+    return translate_client.translate(sent, target_language=lang)["translatedText"]
 
 def translate_sentence_from(sent, lang):
-    return translator.translate(sent, src=lang, dest="en")
+    if isinstance(sent, six.binary_type):
+        sent = sent.decode("utf-8")
+    return translate_client.translate(sent, target_language="en")["translatedText"]
 
 # rename to reword chunk
 def reword_sentence(sent, lang):
     sent = translate_sentence_to(sent, lang)
     #print(sent.text)
-    sent = translate_sentence_from(sent.text, lang)
+    sent = translate_sentence_from(sent, lang)
     #print(sent.text)
-    return sent.text
+    return sent
 
 # uses word to vec to find the closest word to the e1/e2 contents when the translated words are not an exact match.
 def get_closest_word(sent, word):
@@ -56,20 +61,21 @@ def validate_translation(datapoint):
 
     # This is a bad translation and it can not be fixed
     discard = False
-
-    if sent.find(e1) == -1:
-        if len(e1.split()) > 1:
-            discard = True
-        else:
-            closest_word, match_quality = get_closest_word(sent, e1)
-            datapoint["e1_contents"] = closest_word
-    if sent.find(e2) == -1:
-        if len(e2.split()) > 1:
-            discard = True
-        else:
-            closest_word, match_quality = get_closest_word(sent, e2)
-            datapoint["e2_contents"] = closest_word
-
+    try:
+        if sent.find(e1) == -1:
+            if len(e1.split()) > 1:
+                discard = True
+            else:
+                closest_word, match_quality = get_closest_word(sent, e1)
+                datapoint["e1_contents"] = closest_word
+        if sent.find(e2) == -1:
+            if len(e2.split()) > 1:
+                discard = True
+            else:
+                closest_word, match_quality = get_closest_word(sent, e2)
+                datapoint["e2_contents"] = closest_word
+    except:
+        discard = True
     return datapoint, discard
   
 if __name__ == "__main__":
@@ -78,11 +84,12 @@ if __name__ == "__main__":
     with open(".\\classifier\\semeval2010task8\\semeval_datasetV2.json", "r") as f:
         dataset = json.load(f)
 
+    dataset = dataset[:100]
     #print(len(dataset))
-    dataset = dataset[:53]
+    #dataset = dataset[]
     #print(dataset)
     reworded_data = []
-    translation_language = "es"
+    translation_language = "ja"
 
     # temporarily change sent to *** so it will not be translated
     for i, datapoint in enumerate(dataset):
@@ -124,8 +131,12 @@ if __name__ == "__main__":
         json_text = "[\n" + reword_sentence(chunk, translation_language) + "\n]"
         json_text = json_text.replace(" \"", "\"")
         json_text = json_text.replace("\" ", "\"")
+        json_text = json_text.replace(" ,", ",")
         print("++", json_text)
-        reworded_data.append( json.loads(json_text) )
+        try:
+            reworded_data.append( json.loads(json_text) )
+        except:
+            continue
     print("-----------------------------------------------")
     print(reworded_data)
 
