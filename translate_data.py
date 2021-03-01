@@ -1,6 +1,4 @@
-from google.cloud import translate_v2 as translate
-translate_client = translate.Client()
-import six
+from googletrans import Translator
 import gensim.downloader as api
 import re
 print("loading word2vec")
@@ -8,24 +6,25 @@ wv = api.load('word2vec-google-news-300')
 print("finished loading")
 translation_language = "es"
 
-# these are actually used to translate chunks
+translator_to_lang = Translator()
+translator_to_eng = Translator()
+
+
 def translate_sentence_to(sent, lang):
-    if isinstance(sent, six.binary_type):
-        sent = sent.decode("utf-8")
-    return translate_client.translate(sent, target_language=lang)["translatedText"]
+    return translator_to_lang.translate(sent, dest=lang)
 
 def translate_sentence_from(sent, lang):
-    if isinstance(sent, six.binary_type):
-        sent = sent.decode("utf-8")
-    return translate_client.translate(sent, target_language="en")["translatedText"]
+    # make a pointless request to interfere with translation caching
+    _ = translator_to_eng.translate("please translate this sentence.")
+    return translator_to_eng.translate(sent, src=lang, dest="en")
 
 # rename to reword chunk
 def reword_sentence(sent, lang):
     sent = translate_sentence_to(sent, lang)
     #print(sent.text)
-    sent = translate_sentence_from(sent, lang)
+    sent = translate_sentence_from(sent.text, lang)
     #print(sent.text)
-    return sent
+    return sent.text
 
 # uses word to vec to find the closest word to the e1/e2 contents when the translated words are not an exact match.
 def get_closest_word(sent, word):
@@ -84,12 +83,14 @@ if __name__ == "__main__":
     with open(".\\classifier\\semeval2010task8\\semeval_datasetV2.json", "r") as f:
         dataset = json.load(f)
 
-    dataset = dataset[:100]
     #print(len(dataset))
-    #dataset = dataset[]
+    dataset = dataset[:10]
     #print(dataset)
     reworded_data = []
-    translation_language = "ja"
+
+    # simplified chinese lang code = zh-CN
+    # spanish lang code = es
+    translation_language = "zh-CN"#"es"
 
     # temporarily change sent to *** so it will not be translated
     for i, datapoint in enumerate(dataset):
@@ -110,7 +111,7 @@ if __name__ == "__main__":
     chunk_num = 0
     for i, data_point in enumerate(dataset):
         # split the json data into chunks of size 50 to be below the 15,000 char limit
-        if i % 50 == 0 and i != 0:
+        if i % 25 == 0 and i != 0:
             data_chunks.append(data_chunk)
             data_chunk = ""
         data_point_str = json.dumps(data_point)
@@ -139,6 +140,8 @@ if __name__ == "__main__":
             continue
     print("-----------------------------------------------")
     print(reworded_data)
+    with open("raw_text.txt", "w") as f:
+        f.write(str(reworded_data))
 
     #flatten the list
     flattened_data = []
@@ -173,6 +176,7 @@ if __name__ == "__main__":
     print("-----------------------------------------------")
     print(omitted)
     print("generated", len(flattened_data), "datapoints")
+
     with open(".\\classifier\\semeval2010task8\\augmented.json", "w") as f:
         json.dump(flattened_data, f, indent=4)
 
