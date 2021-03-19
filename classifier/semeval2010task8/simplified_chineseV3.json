@@ -49832,11 +49832,11 @@
         "id": "chinese:7491"
     },
     {
-        "sent": "When you have a nightmare, tools make work easier.",
+        "sent": "The job would have been a nightmare but the tools made it easy.",
         "relation_type": 9,
         "is_active": 0,
         "e1_contents": "tools",
-        "e2_contents": "work",
+        "e2_contents": "job",
         "id": "chinese:7492"
     },
     {
