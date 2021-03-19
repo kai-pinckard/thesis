@@ -1,0 +1,4002 @@
+[
+    {
+        "sent": "Heating oil is similar to diesel oil, and the process of refining it is very similar.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "diesel",
+        "e2_contents": "oil",
+        "id": "original:7501"
+    },
+    {
+        "sent": "That's because nostalgia serves a useful defensive and reparative function; it took the sting from a painful episode in his life by shading the script.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "sting",
+        "e2_contents": "painful episode",
+        "id": "original:7502"
+    },
+    {
+        "sent": "The plane makes a parabolic maneuver, much like a roller coaster with steep climbs and descents, that simulates zero gravity conditions.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "plane",
+        "e2_contents": "maneuver",
+        "id": "original:7503"
+    },
+    {
+        "sent": "Some people experience tremors after drinking coffee and tea.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "tremors",
+        "e2_contents": "drinking",
+        "id": "original:7504"
+    },
+    {
+        "sent": "I'm running a charity that helps the poorest school libraries in the U.S.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "charity",
+        "e2_contents": "libraries",
+        "id": "original:7505"
+    },
+    {
+        "sent": "Hitting out of anger is absolutely wrong.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Hitting",
+        "e2_contents": "anger",
+        "id": "original:7506"
+    },
+    {
+        "sent": "The president used the pretext of national security.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "president",
+        "e2_contents": "pretext",
+        "id": "original:7507"
+    },
+    {
+        "sent": "These characteristics are inconsistent with observations from earthquakes of comparable distance and magnitude to those that dominate the hazard at Yucca Mountain.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "observations",
+        "e2_contents": "earthquakes",
+        "id": "original:7508"
+    },
+    {
+        "sent": "He derives great joy and happiness from cycling.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "happiness",
+        "e2_contents": "cycling",
+        "id": "original:7509"
+    },
+    {
+        "sent": "The man cannot be too old - in his middle thirties - but his face exhibits more wrinkles from smiling than I've seen upon the mug of the happiest of grandparents.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "wrinkles",
+        "e2_contents": "smiling",
+        "id": "original:7510"
+    },
+    {
+        "sent": "The book has as its backdrop the political controversy over euthanasia in Australia, where the author is senior lecturer in the Health Law Program.",
+        "relation_type": 8,
+        "is_active": 1,
+        "e1_contents": "book",
+        "e2_contents": "euthanasia",
+        "id": "original:7511"
+    },
+    {
+        "sent": "I am amazed how the sound is making things bounce off the walls in my house.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "walls",
+        "e2_contents": "house",
+        "id": "original:7512"
+    },
+    {
+        "sent": "At their peak on Saturday, 23 September, the powerboat manufacturer sold a new boat every 28 minutes.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "powerboat",
+        "e2_contents": "manufacturer",
+        "id": "original:7513"
+    },
+    {
+        "sent": "The randomized hypertensive ABCD study demonstrated a decrease in myocardial infarction with ACE inhibitors and a decrease in overall mortality with aggressive blood pressure control.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "decrease",
+        "e2_contents": "control",
+        "id": "original:7514"
+    },
+    {
+        "sent": "The scientist applied a method called recombineering to the fruitfly genes.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "scientist",
+        "e2_contents": "method",
+        "id": "original:7515"
+    },
+    {
+        "sent": "The resulting shockwaves produced the metal-forming conditions for periods of 100-200 ns.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "shockwaves",
+        "e2_contents": "conditions",
+        "id": "original:7516"
+    },
+    {
+        "sent": "The software uses the wrong comment marks for PHP files.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "software",
+        "e2_contents": "marks",
+        "id": "original:7517"
+    },
+    {
+        "sent": "I found some candy in my underwear.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "candy",
+        "e2_contents": "underwear",
+        "id": "original:7518"
+    },
+    {
+        "sent": "Once the prisoners had created the trapdoors, they were ready to start digging the tunnels, but there was a major problem to overcome.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "prisoners",
+        "e2_contents": "trapdoors",
+        "id": "original:7519"
+    },
+    {
+        "sent": "This skateboard company designs skateboards specifically for girls.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "skateboard",
+        "e2_contents": "company",
+        "id": "original:7520"
+    },
+    {
+        "sent": "Myles and Simpson also identify defensive behaviour from learners like lashing out verbally or physically or threatening the educators or other learners and withdrawing from others emotionally or physically.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "behaviour",
+        "e2_contents": "learners",
+        "id": "original:7521"
+    },
+    {
+        "sent": "Another drinking accident happened in the Gallup area the other day, which is plagued by drinking and driving accidents.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "drinking",
+        "e2_contents": "accident",
+        "id": "original:7522"
+    },
+    {
+        "sent": "The programmer made a mistake with respect to quoting, but it appeared as over-quoting instead of lurking as a security problem.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "programmer",
+        "e2_contents": "mistake",
+        "id": "original:7523"
+    },
+    {
+        "sent": "In almost all of the incidents, the attacker developed the idea to harm the target before the attack.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "attacker",
+        "e2_contents": "idea",
+        "id": "original:7524"
+    },
+    {
+        "sent": "The quotation is from the preface to the fourth edition.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "quotation",
+        "e2_contents": "preface",
+        "id": "original:7525"
+    },
+    {
+        "sent": "In America, generations of Portuguese immigrants from the mainland, Azores and Madeira have brought their often-simple but diverse and always tasty cuisine.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "immigrants",
+        "e2_contents": "mainland",
+        "id": "original:7526"
+    },
+    {
+        "sent": "The temperature inside the car was 79 degrees.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "temperature",
+        "e2_contents": "car",
+        "id": "original:7527"
+    },
+    {
+        "sent": "Her employment at this mustard company is considered the earliest recorded evidence of a company specifically hiring an industrial nurse.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "mustard",
+        "e2_contents": "company",
+        "id": "original:7528"
+    },
+    {
+        "sent": "Digital computers actually execute numerical instructions: bitstrings that contain information in the native language created by the machine's designers.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "language",
+        "e2_contents": "designers",
+        "id": "original:7529"
+    },
+    {
+        "sent": "The bag contained books, a cell phone and notepads.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "bag",
+        "e2_contents": "books",
+        "id": "original:7530"
+    },
+    {
+        "sent": "Entrepreneurship out of necessity is quite common in Europe where 60% of female headed businesses in Northern Europe and 70% in Southern Europe are established for this reason.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Entrepreneurship",
+        "e2_contents": "necessity",
+        "id": "original:7531"
+    },
+    {
+        "sent": "The actor played a psychopathic preacher with a restrained malice.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "actor",
+        "e2_contents": "malice",
+        "id": "original:7532"
+    },
+    {
+        "sent": "A nurse helps the caregiver.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "nurse",
+        "e2_contents": "caregiver",
+        "id": "original:7533"
+    },
+    {
+        "sent": "Beginning in 1966-67, the club made the playoffs nine consecutive seasons, the only NHL team of the period to accomplish that feat.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "club",
+        "e2_contents": "playoffs",
+        "id": "original:7534"
+    },
+    {
+        "sent": "Anthony finds inspiration in a beautiful, enigmatic older woman who teaches him to follow his heart and find happiness through swing dancing.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "happiness",
+        "e2_contents": "dancing",
+        "id": "original:7535"
+    },
+    {
+        "sent": "The author applied the above-mentioned simple dovetailer to all computable universes.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "author",
+        "e2_contents": "dovetailer",
+        "id": "original:7536"
+    },
+    {
+        "sent": "St John's wort reduced the severity of depression after six weeks.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "depression",
+        "e2_contents": "weeks",
+        "id": "original:7537"
+    },
+    {
+        "sent": "Statistical analysis was made using the PCSM program.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "analysis",
+        "e2_contents": "program",
+        "id": "original:7538"
+    },
+    {
+        "sent": "They generally bought grapes from farmers or else they bought wine produced by cooperative wineries.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "wine",
+        "e2_contents": "wineries",
+        "id": "original:7539"
+    },
+    {
+        "sent": "Habitat degradation from within stream channels, loss of riparian vegetation, and reductions in water quality degrade and also limit the population.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "degradation",
+        "e2_contents": "channels",
+        "id": "original:7540"
+    },
+    {
+        "sent": "Located near the equator in South America, the cocoa tree produces cocoa beans, the source of all chocolate.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "cocoa tree",
+        "e2_contents": "cocoa beans",
+        "id": "original:7541"
+    },
+    {
+        "sent": "They often have a pump over the drainage hole to draw the waste water towards it.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "pump",
+        "e2_contents": "hole",
+        "id": "original:7542"
+    },
+    {
+        "sent": "The retailerer reported the income from a coupon's face value and its related handling fee at the time the coupon was received from the customer.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "coupon",
+        "e2_contents": "customer",
+        "id": "original:7543"
+    },
+    {
+        "sent": "Surgery is reserved for treating residual disease six to eight weeks after radiation therapy or for recurrence.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "weeks",
+        "e2_contents": "therapy",
+        "id": "original:7544"
+    },
+    {
+        "sent": "I'm finding the most joy comes from Asian flavours; beautiful fresh fish; things that have been marinated; roasted vegetables; meats that intensify in flavour during the cooking process; and dishes made from the most brilliant, fresh, in-season food.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "joy",
+        "e2_contents": "flavours",
+        "id": "original:7545"
+    },
+    {
+        "sent": "A cancer survivor writes about the relatively rare occurrence of calcification of the breast after radiation therapy.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "calcification",
+        "e2_contents": "therapy",
+        "id": "original:7546"
+    },
+    {
+        "sent": "Batteries stored in contact with one another generate heat and hydrogen gas.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "Batteries",
+        "e2_contents": "contact",
+        "id": "original:7547"
+    },
+    {
+        "sent": "Of the situation in the fifteenth century, Parkes remarks: 'The mass of the people cultivated the land'.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "mass",
+        "e2_contents": "land",
+        "id": "original:7548"
+    },
+    {
+        "sent": "His tendency to experience pathological anxiety from his early years and his tendency to respond to novelty, change, and challenges with an exaggerated anxiety response were noted.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "anxiety",
+        "e2_contents": "years",
+        "id": "original:7549"
+    },
+    {
+        "sent": "We put frozen prawns in the popcorn maker, and we obtained prawn crackers.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "prawns",
+        "e2_contents": "popcorn maker",
+        "id": "original:7550"
+    },
+    {
+        "sent": "The entire site was actively farmed during the 2004 growing season and aerial photography indicates the site has been farmed for multiple years.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "site",
+        "e2_contents": "years",
+        "id": "original:7551"
+    },
+    {
+        "sent": "The neutrons were produced by bombarding a tritium target with deuterium.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "neutrons",
+        "e2_contents": "bombarding",
+        "id": "original:7552"
+    },
+    {
+        "sent": "Before doing for his hair reduction by laser treatment, he first consulted with a dermatologist.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "reduction",
+        "e2_contents": "treatment",
+        "id": "original:7553"
+    },
+    {
+        "sent": "The rings are preferably made from a copolymer polypropylene.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "rings",
+        "e2_contents": "copolymer polypropylene",
+        "id": "original:7554"
+    },
+    {
+        "sent": "This represents a house that contains a light bulb and an airconditioner.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "house",
+        "e2_contents": "light bulb",
+        "id": "original:7555"
+    },
+    {
+        "sent": "The name given to our cluster, Valhalla, comes from Norse mythology.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "name",
+        "e2_contents": "mythology",
+        "id": "original:7556"
+    },
+    {
+        "sent": "I was trained as a vioin maker, over 20 years ago, and have built violins (baroque and classical), violas, cellos, viols da gamba, and viols d'amore.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "vioin",
+        "e2_contents": "maker",
+        "id": "original:7557"
+    },
+    {
+        "sent": "Ancient pagan traditions used famine following feast as a way of revealing truth.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "famine",
+        "e2_contents": "feast",
+        "id": "original:7558"
+    },
+    {
+        "sent": "The students designed the home's living areas with an eye toward making a small house feel spacious.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "students",
+        "e2_contents": "areas",
+        "id": "original:7559"
+    },
+    {
+        "sent": "The company developed the negatives and returned the camera with a fresh roll of film.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "company",
+        "e2_contents": "negatives",
+        "id": "original:7560"
+    },
+    {
+        "sent": "The measurement was made using a gonio-photometric color measurement system.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "measurement",
+        "e2_contents": "system",
+        "id": "original:7561"
+    },
+    {
+        "sent": "For this reason the hairdresser prefers conventional scissors, which however do not exhibit the ergonomical advantages.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "hairdresser",
+        "e2_contents": "scissors",
+        "id": "original:7562"
+    },
+    {
+        "sent": "Any deformation from the circular form have a significant effect on the ability of the hose to sustain internal pressure.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "deformation",
+        "e2_contents": "form",
+        "id": "original:7563"
+    },
+    {
+        "sent": "The data is received from a sensor in the shoe, with audible feedback provided through the earphones.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "data",
+        "e2_contents": "sensor",
+        "id": "original:7564"
+    },
+    {
+        "sent": "The check given by Charles V to the advance of the Ottoman power along the African coast made him appear to the world as the liberator of the Christians and the terror of the infidels, and gave him such prestige that Francis felt obliged to get all the advantage possible out of his alliance.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "terror",
+        "e2_contents": "infidels",
+        "id": "original:7565"
+    },
+    {
+        "sent": "The patient had crushed a pencil with this toe about 30 years previously.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "patient",
+        "e2_contents": "toe",
+        "id": "original:7566"
+    },
+    {
+        "sent": "It often becomes necessary to delete objects from the chart during the course of monitoring system performance.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "objects",
+        "e2_contents": "chart",
+        "id": "original:7567"
+    },
+    {
+        "sent": "Craig expressed his frustration after Monday's meeting.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "frustration",
+        "e2_contents": "meeting",
+        "id": "original:7568"
+    },
+    {
+        "sent": "On the other hand, gin is distilled from a neutral grain spirit, which is then infused with juniper and a host of other botanicals.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "gin",
+        "e2_contents": "spirit",
+        "id": "original:7569"
+    },
+    {
+        "sent": "The contents of the bag included numerous flyers from other conference sponsors and exhibitors and some useful stationery supplies.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "contents",
+        "e2_contents": "flyers",
+        "id": "original:7570"
+    },
+    {
+        "sent": "It supports the personal information and interaction environment thus liberating the person from tedious chores and enriching their life and interaction with others in social or business contexts it enlarges the personal contribution.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "person",
+        "e2_contents": "chores",
+        "id": "original:7571"
+    },
+    {
+        "sent": "The clutter in my house was destroying me.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "clutter",
+        "e2_contents": "house",
+        "id": "original:7572"
+    },
+    {
+        "sent": "It is a motorized spherical mechanism that simulates the rowing motion of an oar.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "rowing motion",
+        "e2_contents": "oar",
+        "id": "original:7573"
+    },
+    {
+        "sent": "I put the remaining candy in my mouth and walked back the way I came, then past the village and into town.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "candy",
+        "e2_contents": "mouth",
+        "id": "original:7574"
+    },
+    {
+        "sent": "The site was encircled by a high fence and one could see a crane lifting some heavy construction material.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "crane",
+        "e2_contents": "construction material",
+        "id": "original:7575"
+    },
+    {
+        "sent": "With lyrical descriptions of landscape and terse, unpunctuated dialogue, a distinctive voice powered a gripping story.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "voice",
+        "e2_contents": "story",
+        "id": "original:7576"
+    },
+    {
+        "sent": "The cook squatted by the stove.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "cook",
+        "e2_contents": "stove",
+        "id": "original:7577"
+    },
+    {
+        "sent": "During his travel to Russia you managed to buy vodka in a plastic bag.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "plastic",
+        "e2_contents": "bag",
+        "id": "original:7578"
+    },
+    {
+        "sent": "Among them, 24% is related to microarrays fabricated by the microspotting approach.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "microarrays",
+        "e2_contents": "approach",
+        "id": "original:7579"
+    },
+    {
+        "sent": "Chinese liquor is a kind of wine produced by solidified fermentation of grain.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "wine",
+        "e2_contents": "fermentation",
+        "id": "original:7580"
+    },
+    {
+        "sent": "The saw cut a large hole in a huge concrete wall at the plant.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "saw",
+        "e2_contents": "hole",
+        "id": "original:7581"
+    },
+    {
+        "sent": "Woz has outfitted the house with an elaborate swimming pool that extends inside the house by way of an underwater channel.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "swimming pool",
+        "e2_contents": "house",
+        "id": "original:7582"
+    },
+    {
+        "sent": "A raindrop keeps the same shape to a reasonable approximation all the time it is falling.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "raindrop",
+        "e2_contents": "shape",
+        "id": "original:7583"
+    },
+    {
+        "sent": "The scientists made the surprising observation that SMN binds efficiently -- and carry out its functions -- when the proteins to which it needs to bind are first ",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "scientists",
+        "e2_contents": "observation",
+        "id": "original:7584"
+    },
+    {
+        "sent": "It's unfortunate you tried a potato vodka.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "potato",
+        "e2_contents": "vodka",
+        "id": "original:7585"
+    },
+    {
+        "sent": "The room contains radioactive materials.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "room",
+        "e2_contents": "radioactive materials",
+        "id": "original:7586"
+    },
+    {
+        "sent": "Trees grow seeds.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "Trees",
+        "e2_contents": "seeds",
+        "id": "original:7587"
+    },
+    {
+        "sent": "Short-term side effects are uncommon, but include headache from eyestrain, nausea, agitation or nervousness.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "headache",
+        "e2_contents": "eyestrain",
+        "id": "original:7588"
+    },
+    {
+        "sent": "The reaction mixture is kept in the dark at room temperature for 1 1/2 hours.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "mixture",
+        "e2_contents": "dark",
+        "id": "original:7589"
+    },
+    {
+        "sent": "Thatch is caused by excessive growth from overfertilizing, by allowing the grass to get too high before mowing, or by incorrect watering.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "growth",
+        "e2_contents": "overfertilizing",
+        "id": "original:7590"
+    },
+    {
+        "sent": "The clear spirit is distilled from fresh grain.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "spirit",
+        "e2_contents": "grain",
+        "id": "original:7591"
+    },
+    {
+        "sent": "Alabama has since enacted legislation, allowing death by lethal injection as an alternative choice to death in the electric chair.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "death",
+        "e2_contents": "injection",
+        "id": "original:7592"
+    },
+    {
+        "sent": "As the officer shone his flashlight on the lock he was working on, he spotted a marijuana pipe laying on the floor inside the car.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "marijuana pipe",
+        "e2_contents": "car",
+        "id": "original:7593"
+    },
+    {
+        "sent": "It is also illegal for anyone other than the drug's manufacturer to re-import a prescription drug that was originally manufactured in the United States.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "drug",
+        "e2_contents": "manufacturer",
+        "id": "original:7594"
+    },
+    {
+        "sent": "Bottle aging, which is anaerobic (oxygen-free), is one of the reasons that people put wine in a cellar and let it age.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "wine",
+        "e2_contents": "cellar",
+        "id": "original:7595"
+    },
+    {
+        "sent": "Since I was a teacher, the boxes contained books I was bringing for the students to improve their English.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "boxes",
+        "e2_contents": "books",
+        "id": "original:7596"
+    },
+    {
+        "sent": "The box holds our pool equipment perfectly.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "box",
+        "e2_contents": "pool equipment",
+        "id": "original:7597"
+    },
+    {
+        "sent": "The organization helps educate practitioner dentists through clinical meetings.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "organization",
+        "e2_contents": "dentists",
+        "id": "original:7598"
+    },
+    {
+        "sent": "Miss Clockheart wears a silver heart around her neck with a clock inside.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "silver heart",
+        "e2_contents": "clock",
+        "id": "original:7599"
+    },
+    {
+        "sent": "Straight ahead you enter a nice sized living room that contains the front door.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "living room",
+        "e2_contents": "door",
+        "id": "original:7600"
+    },
+    {
+        "sent": "One newly formed Iraqi battalion is on duty, with 27 scheduled for activation by summer 2004.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "activation",
+        "e2_contents": "summer",
+        "id": "original:7601"
+    },
+    {
+        "sent": "The bacon manufacture is the 74th greatest export of Denmark.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "bacon",
+        "e2_contents": "manufacture",
+        "id": "original:7602"
+    },
+    {
+        "sent": "The trench was inside the fenced back yard.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "trench",
+        "e2_contents": "fenced back yard",
+        "id": "original:7603"
+    },
+    {
+        "sent": "Strikingly large in scale, this grater shaves a perfect portion in a single stroke.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "grater",
+        "e2_contents": "portion",
+        "id": "original:7604"
+    },
+    {
+        "sent": "The night hell fell from the sky.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "hell",
+        "e2_contents": "sky",
+        "id": "original:7605"
+    },
+    {
+        "sent": "Heating oil is a refined oil made from petroleum, used in furnaces to heat buildings.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "Heating",
+        "e2_contents": "oil",
+        "id": "original:7606"
+    },
+    {
+        "sent": "Original sculptures were carved with a chainsaw.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "sculptures",
+        "e2_contents": "chainsaw",
+        "id": "original:7607"
+    },
+    {
+        "sent": "It's very rewarding and I get a great deal of enjoyment and satisfaction from mentoring.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "satisfaction",
+        "e2_contents": "mentoring",
+        "id": "original:7608"
+    },
+    {
+        "sent": "Other non-native species used in aquaculture are brook trout (Salvelinus fontinalis) and lake trout (Salvelinus namaycush), fishes that mainly has been farmed for stocking purposes.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "fishes",
+        "e2_contents": "purposes",
+        "id": "original:7609"
+    },
+    {
+        "sent": "The bombing produced the worst carnage since a Nov. 23 attack in the Shi'ite slum of Sadr City that killed more than 200 people.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "bombing",
+        "e2_contents": "carnage",
+        "id": "original:7610"
+    },
+    {
+        "sent": "Like other spiders, the tarantula makes a silken web, but not for snaring prey.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "tarantula",
+        "e2_contents": "web",
+        "id": "original:7611"
+    },
+    {
+        "sent": "My problem is that the advertisement gives the impression that women in rural Bangladesh have 6 children.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "advertisement",
+        "e2_contents": "impression",
+        "id": "original:7612"
+    },
+    {
+        "sent": "The vaccine is made from inactivated virus, so it's impossible to get the flu from the vaccine.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "vaccine",
+        "e2_contents": "virus",
+        "id": "original:7613"
+    },
+    {
+        "sent": "The southern supercell produced the longest tornado track of the outbreak (tornado #4).",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "supercell",
+        "e2_contents": "tornado track",
+        "id": "original:7614"
+    },
+    {
+        "sent": "Factory class that manufactures component objects for the farmyard.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "Factory class",
+        "e2_contents": "objects",
+        "id": "original:7615"
+    },
+    {
+        "sent": "A sewing machine is a mechanical (or electromechanical) device that joins fabric using thread.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "device",
+        "e2_contents": "thread",
+        "id": "original:7616"
+    },
+    {
+        "sent": "The newer lesser-known attraction that the kibbutz offers is a reconstructed oil press whose beginnings can be traced to the early 20th century in Jaffa.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "oil",
+        "e2_contents": "press",
+        "id": "original:7617"
+    },
+    {
+        "sent": "That year, summer students at the VLA made the first discovery of radio emission from a brown dwarf.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "emission",
+        "e2_contents": "dwarf",
+        "id": "original:7618"
+    },
+    {
+        "sent": "The tongue has taste buds, but a cat's appetite comes from the smell of the food and doesn't come from the taste of it.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "appetite",
+        "e2_contents": "smell",
+        "id": "original:7619"
+    },
+    {
+        "sent": "They understand the stakes from a personal perspective, as well, since the extremists have tried to assassinate them.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "stakes",
+        "e2_contents": "perspective",
+        "id": "original:7620"
+    },
+    {
+        "sent": "The dryer emits air that is regulated close to your body temperature.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "dryer",
+        "e2_contents": "air",
+        "id": "original:7621"
+    },
+    {
+        "sent": "Because of the Depression the original design was cut back significantly, but the building contained a number of unique architectural features.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "building",
+        "e2_contents": "architectural features",
+        "id": "original:7622"
+    },
+    {
+        "sent": "You are in the chair while the dentist gets the drill ready to begin work on your teeth.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "dentist",
+        "e2_contents": "drill",
+        "id": "original:7623"
+    },
+    {
+        "sent": "PHY 319 is presently taught in three 50-minute lectures per week in which the instructor makes a chalkboard presentation.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "instructor",
+        "e2_contents": "presentation",
+        "id": "original:7624"
+    },
+    {
+        "sent": "Sparky Anderson is making progress in his recovery from exhaustion and could return to managing the Detroit Tigers within a week.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "recovery",
+        "e2_contents": "exhaustion",
+        "id": "original:7625"
+    },
+    {
+        "sent": "The senator also wielded enormous influence in the dispensing of Rhode Island's share of expanding federal budgets of the 1950s and 1960s.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "senator",
+        "e2_contents": "influence",
+        "id": "original:7626"
+    },
+    {
+        "sent": "The draft makes a distinction between 'data' and 'records'.",
+        "relation_type": 8,
+        "is_active": 1,
+        "e1_contents": "draft",
+        "e2_contents": "distinction",
+        "id": "original:7627"
+    },
+    {
+        "sent": "The vaccine is produced by the government and is not for sale to private individuals or companies.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "vaccine",
+        "e2_contents": "government",
+        "id": "original:7628"
+    },
+    {
+        "sent": "The land was farmed for olives and a few other crops.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "land",
+        "e2_contents": "olives",
+        "id": "original:7629"
+    },
+    {
+        "sent": "Seventy-first regiment and the rest of the cavalry composed the reserve.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "regiment",
+        "e2_contents": "reserve",
+        "id": "original:7630"
+    },
+    {
+        "sent": "As the servants put the inflatable corgis in a bag for the Balmoral jumble sale, the Queen will be settling down this morning for a nice cup of tea and a quiet rest during The Archers, known to be one of her radio favourites.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "inflatable corgis",
+        "e2_contents": "bag",
+        "id": "original:7631"
+    },
+    {
+        "sent": "Flight disruption after the attacks in the US delayed him there for three days.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "disruption",
+        "e2_contents": "attacks",
+        "id": "original:7632"
+    },
+    {
+        "sent": "Public key encryption is a technique that uses a pair of asymmetric keys for encryption and decryption.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "technique",
+        "e2_contents": "keys",
+        "id": "original:7633"
+    },
+    {
+        "sent": "I nicked a syringe from a nurse and got somebody to get me a lemon from the kitchen.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "syringe",
+        "e2_contents": "nurse",
+        "id": "original:7634"
+    },
+    {
+        "sent": "Ray Parlour shows his frustration after Middlesbrough's defeat.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "frustration",
+        "e2_contents": "defeat",
+        "id": "original:7635"
+    },
+    {
+        "sent": "A biologist combines a range of diverse and distributed resources (databases, tools, instruments) to answer complex questions.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "biologist",
+        "e2_contents": "resources",
+        "id": "original:7636"
+    },
+    {
+        "sent": "Then, in May, 2005, the government produced the factual return, as ordered by the District Court.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "government",
+        "e2_contents": "factual return",
+        "id": "original:7637"
+    },
+    {
+        "sent": "These first person accounts humanize history as readers share the experiences of American prosecutors, security personnel, journalists, and even the architect who designed the courtroom.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "architect",
+        "e2_contents": "courtroom",
+        "id": "original:7638"
+    },
+    {
+        "sent": "To repair, he used duct tape and caulk to seal gaps in the metal box and between joints and seams in the duct.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "gaps",
+        "e2_contents": "metal box",
+        "id": "original:7639"
+    },
+    {
+        "sent": "Hundreds of thousands in central China are sleeping outdoors for fear of more tremors after Saturday's earthquake.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "tremors",
+        "e2_contents": "earthquake",
+        "id": "original:7640"
+    },
+    {
+        "sent": "The department applied a one-time adjustment to the graduation rates to remove the bias.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "department",
+        "e2_contents": "adjustment",
+        "id": "original:7641"
+    },
+    {
+        "sent": "Eight rooms surround a central square room that contains the mortal remains of Bibi Pari.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "room",
+        "e2_contents": "remains",
+        "id": "original:7642"
+    },
+    {
+        "sent": "The patient literally sawed it in half using a hard toothbrush over a period of many years.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "patient",
+        "e2_contents": "toothbrush",
+        "id": "original:7643"
+    },
+    {
+        "sent": "Contact the router's manufacturer for assistance with configuration and proper setup of your wired router.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "router",
+        "e2_contents": "manufacturer",
+        "id": "original:7644"
+    },
+    {
+        "sent": "Most cane sugar comes from countries with warm climates, such as Brazil, Pakistan, India, China and Australia.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "cane",
+        "e2_contents": "sugar",
+        "id": "original:7645"
+    },
+    {
+        "sent": "As the policeman hit her with his truncheon, another police officer pushed him away from her and shouted for him to stop.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "policeman",
+        "e2_contents": "truncheon",
+        "id": "original:7646"
+    },
+    {
+        "sent": "The carbohydrase is produced by a process which completely removes the organism Rhizopus oryzae from the carbohydrase product.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "carbohydrase",
+        "e2_contents": "process",
+        "id": "original:7647"
+    },
+    {
+        "sent": "We saved the planet from the imperialist threat.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "planet",
+        "e2_contents": "threat",
+        "id": "original:7648"
+    },
+    {
+        "sent": "The contents of the satchel were a revelation.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "satchel",
+        "e2_contents": "revelation",
+        "id": "original:7649"
+    },
+    {
+        "sent": "InterSense, Inc., a market leader in precision motion technology, today announced that Hydro, a leading offshore producer of oil and gas, has installed its tenth InterSense IS-900 Precision Motion Tracking System as part of Hydro's large scale immersive visualization rooms.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "offshore",
+        "e2_contents": "producer",
+        "id": "original:7650"
+    },
+    {
+        "sent": "The event featured a demonstration of weaving on a loom by local weaver Nancy Alexander.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "loom",
+        "e2_contents": "weaver",
+        "id": "original:7651"
+    },
+    {
+        "sent": "This is another false story fabricated by the sheriff.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "story",
+        "e2_contents": "sheriff",
+        "id": "original:7652"
+    },
+    {
+        "sent": "She got rid of the ants in the kitchen without using dangerous pesticides.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "ants",
+        "e2_contents": "kitchen",
+        "id": "original:7653"
+    },
+    {
+        "sent": "The taste is from the ginseng, not alcohol.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "taste",
+        "e2_contents": "ginseng",
+        "id": "original:7654"
+    },
+    {
+        "sent": "In each house lives a person with a different nationality.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "house",
+        "e2_contents": "person",
+        "id": "original:7655"
+    },
+    {
+        "sent": "Maybe the most significant difference is that we have changed from emigration out of necessity to emigration in search of new opportunities.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "emigration",
+        "e2_contents": "necessity",
+        "id": "original:7656"
+    },
+    {
+        "sent": "An office that contains plants creates an agreeable environment for yourself and others.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "office",
+        "e2_contents": "plants",
+        "id": "original:7657"
+    },
+    {
+        "sent": "This daily assault of inflammation in their digestive system, plus the inflammation from your joints and an overworked immune system and excess weight easily exceed the amount of inflammation your body can effectively handle.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "inflammation",
+        "e2_contents": "joints",
+        "id": "original:7658"
+    },
+    {
+        "sent": "The pollen is derived from a podocarp/broadleaved forest, which probably. covered both the alluvial flats and sides of the valley.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "pollen",
+        "e2_contents": "forest",
+        "id": "original:7659"
+    },
+    {
+        "sent": "'The Incredible Shrinking Man' follows Matheson's novel and effectively captures the terror of the protagonist as he shrinks to oblivion.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "terror",
+        "e2_contents": "protagonist",
+        "id": "original:7660"
+    },
+    {
+        "sent": "In any case, fish oil did harm patients.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "fish",
+        "e2_contents": "oil",
+        "id": "original:7661"
+    },
+    {
+        "sent": "Nausea is the sensation of unease and discomfort from the stomach, with the sufferers feeling that they may vomit.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "discomfort",
+        "e2_contents": "stomach",
+        "id": "original:7662"
+    },
+    {
+        "sent": "I'm the decision maker, and I had to come up with a way forward that precluded disaster.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "decision",
+        "e2_contents": "maker",
+        "id": "original:7663"
+    },
+    {
+        "sent": "This is an overview of the viewer from a developer's perspective.",
+        "relation_type": 8,
+        "is_active": 1,
+        "e1_contents": "overview",
+        "e2_contents": "viewer",
+        "id": "original:7664"
+    },
+    {
+        "sent": "Recruiting talented computer scientists from underrepresented communities is important to current and future workforce needs of the Computation Directorate as well as the Laboratory as a whole.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "scientists",
+        "e2_contents": "communities",
+        "id": "original:7665"
+    },
+    {
+        "sent": "Afterwards, stroll to a bar for a glass of 'medronho' - the national liquor made from a fleshy, red fruit grown in Portugal.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "liquor",
+        "e2_contents": "fruit",
+        "id": "original:7666"
+    },
+    {
+        "sent": "The section focused on the notion of a backprojection, which was used in that to characterize the set of states that can reach another set of states in one stage.",
+        "relation_type": 8,
+        "is_active": 1,
+        "e1_contents": "section",
+        "e2_contents": "notion",
+        "id": "original:7667"
+    },
+    {
+        "sent": "The HP LaserJet 3800n's instant-on fuser produces the first page of each print job in less than 12.5 seconds.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "fuser",
+        "e2_contents": "page",
+        "id": "original:7668"
+    },
+    {
+        "sent": "The record was a sheet of paper stored in a file cabinet or an image on microform.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "sheet",
+        "e2_contents": "file cabinet",
+        "id": "original:7669"
+    },
+    {
+        "sent": "On both of my systems, the reboot produced the ominous message 'Missing operating system'.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "reboot",
+        "e2_contents": "message",
+        "id": "original:7670"
+    },
+    {
+        "sent": "Since the product has made it over that first hurdle, it was blessed with another two seconds while the shopper made his purchasing decision.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "shopper",
+        "e2_contents": "decision",
+        "id": "original:7671"
+    },
+    {
+        "sent": "The person providing the alibi is the culprit and would be providing a fabricated alibi.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "person",
+        "e2_contents": "alibi",
+        "id": "original:7672"
+    },
+    {
+        "sent": "Once the photon was inside the cloud, the control beam was switched off, allowing the photon to come to a halt inside the dense ensemble of atoms.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "photon",
+        "e2_contents": "cloud",
+        "id": "original:7673"
+    },
+    {
+        "sent": "The bytecodes compiled from a nonoptimized control structure are illustrated by the following hypothetical method in Collection.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "bytecodes",
+        "e2_contents": "structure",
+        "id": "original:7674"
+    },
+    {
+        "sent": "The effect of pain relief by acupuncture lasts for an extended period of time, sometimes months after the needle was removed.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "relief",
+        "e2_contents": "acupuncture",
+        "id": "original:7675"
+    },
+    {
+        "sent": "About 30 ducks were found dead in Klamath County in the past two days, and officials are investigating whether the deaths are from a cholera outbreak.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "deaths",
+        "e2_contents": "outbreak",
+        "id": "original:7676"
+    },
+    {
+        "sent": "Principals respond to a decrease in uncertainty with more aggressive strategies.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "decrease",
+        "e2_contents": "strategies",
+        "id": "original:7677"
+    },
+    {
+        "sent": "Similarly, the western physician's white coat and stethoscope and the environment of western medical clinics and hospitals create an aura of expectancy and hope for healing.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "physician",
+        "e2_contents": "stethoscope",
+        "id": "original:7678"
+    },
+    {
+        "sent": "Most of the taste of strong onions comes from the smell.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "taste",
+        "e2_contents": "smell",
+        "id": "original:7679"
+    },
+    {
+        "sent": "The building contained laboratory facilities for conducting spectrochemical, chemical, and mass spectrometric analyses.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "building",
+        "e2_contents": "laboratory facilities",
+        "id": "original:7680"
+    },
+    {
+        "sent": "A city nightclub has had an ambitious expansion plan blocked over concerns about unruly behaviour from drunken revellers.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "behaviour",
+        "e2_contents": "revellers",
+        "id": "original:7681"
+    },
+    {
+        "sent": "The bowl contained apples, pears, and oranges.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "bowl",
+        "e2_contents": "apples",
+        "id": "original:7682"
+    },
+    {
+        "sent": "The site is currently dry farmed for wheat.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "site",
+        "e2_contents": "wheat",
+        "id": "original:7683"
+    },
+    {
+        "sent": "The lady made the photocopies, pushed a few more keys on her computer, and shuffled some papers around.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "lady",
+        "e2_contents": "photocopies",
+        "id": "original:7684"
+    },
+    {
+        "sent": "Hamburgers from the restaurant were recalled, preventing further illness.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "Hamburgers",
+        "e2_contents": "restaurant",
+        "id": "original:7685"
+    },
+    {
+        "sent": "One in four Americans keeps coins in a jar.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "coins",
+        "e2_contents": "jar",
+        "id": "original:7686"
+    },
+    {
+        "sent": "The demonstrators composed the figure 420, representing the number of people still being held at the US prison in Cuba.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "demonstrators",
+        "e2_contents": "figure",
+        "id": "original:7687"
+    },
+    {
+        "sent": "The studies revealed that skin irritation from soaps, inaccessibility to supplies or sinks, and insufficient time to wash hands between every patient care contact were the main reasons given by healthcare workers for lack of handwashing compliance.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "irritation",
+        "e2_contents": "soaps",
+        "id": "original:7688"
+    },
+    {
+        "sent": "The hardcopy book (at an even higher price) and this one purchase ensures you are up to date with all future releases of the electronic book.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "hardcopy",
+        "e2_contents": "book",
+        "id": "original:7689"
+    },
+    {
+        "sent": "But not every run of the experiment produced the desired state - a very large number of failed tries accompanied each successful creation.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "experiment",
+        "e2_contents": "state",
+        "id": "original:7690"
+    },
+    {
+        "sent": "Monica Mullikin ('00) is working for Willis of Minneapolis as a catastrophe risk analyst for this reinsurance company.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "reinsurance",
+        "e2_contents": "company",
+        "id": "original:7691"
+    },
+    {
+        "sent": "The brachioradialis reflex is observed by striking the brachioradialis tendon directly with the hammer when the patient's arm is resting.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "reflex",
+        "e2_contents": "hammer",
+        "id": "original:7692"
+    },
+    {
+        "sent": "This experiment is performed with an aqueous solution of a strong acid inside a flask.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "aqueous solution",
+        "e2_contents": "flask",
+        "id": "original:7693"
+    },
+    {
+        "sent": "The movie gives the inaccurate impression that the Apaches all surrendered.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "movie",
+        "e2_contents": "impression",
+        "id": "original:7694"
+    },
+    {
+        "sent": "Saunders felt a resurgence of the panic from this morning when he'd regained consciousness in the minefield.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "panic",
+        "e2_contents": "morning",
+        "id": "original:7695"
+    },
+    {
+        "sent": "The aristocracy composed the laws, regulated the monetary system and banks, enforced justice, and often controlled prices, wages, and other economic transactions.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "aristocracy",
+        "e2_contents": "laws",
+        "id": "original:7696"
+    },
+    {
+        "sent": "The first quote is from the Ginger Meggs cartoon.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "quote",
+        "e2_contents": "cartoon",
+        "id": "original:7697"
+    },
+    {
+        "sent": "Learning to change your vehicle's engine oil saves you time and money.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "engine",
+        "e2_contents": "oil",
+        "id": "original:7698"
+    },
+    {
+        "sent": "The same company also makes a good coffee substitute called Bambu which is made from organic chicory combined with figs, cereals and acorns to the original recope of the late Swiss nature doctor and founder of the company, Alfred Vogel.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "company",
+        "e2_contents": "substitute",
+        "id": "original:7699"
+    },
+    {
+        "sent": "She spread a cream wax, applied strips (the spa uses a stripless wax for the bikini), and removed them with such agility that we barely flinched.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "spa",
+        "e2_contents": "wax",
+        "id": "original:7700"
+    },
+    {
+        "sent": "He put on a gold pointed hat and read out jokes from the crackers.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "jokes",
+        "e2_contents": "crackers",
+        "id": "original:7701"
+    },
+    {
+        "sent": "Just as the net enables the fisherman to catch many fish in one go, the pattern was favored by the samurai as it symbolized victory over many opponents at one time.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "net",
+        "e2_contents": "fisherman",
+        "id": "original:7702"
+    },
+    {
+        "sent": "The drill enables the dentist to accomplish these procedures quickly and reduces the trauma to oral tissues.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "drill",
+        "e2_contents": "dentist",
+        "id": "original:7703"
+    },
+    {
+        "sent": "They chose samples and prepared them for viewing with the electron microscope.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "electron",
+        "e2_contents": "microscope",
+        "id": "original:7704"
+    },
+    {
+        "sent": "The other contents of the suitcase included gym shoes, dirty sweat socks, Limburger cheese, scented oils, and a severely poop stained Armani suit.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "suitcase",
+        "e2_contents": "gym shoes",
+        "id": "original:7705"
+    },
+    {
+        "sent": "A house that contains a minimum of three bedrooms and a maximum of seven bedrooms to include the proprietor's bedroom is considered to be a ",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "house",
+        "e2_contents": "bedrooms",
+        "id": "original:7706"
+    },
+    {
+        "sent": "The fascinating aspect of therapeutic riding is that the rider sitting astride a horse walking establishes what is a perfect walking gait for the human.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "rider",
+        "e2_contents": "horse",
+        "id": "original:7707"
+    },
+    {
+        "sent": "The soy milk makes a great coffee creamer (and with whatever else you can cook it).",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "soy milk",
+        "e2_contents": "creamer",
+        "id": "original:7708"
+    },
+    {
+        "sent": "Thailand has been bracing itself for a downturn in the wake of the bombs, especially in the tourist sector.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "downturn",
+        "e2_contents": "bombs",
+        "id": "original:7709"
+    },
+    {
+        "sent": "Literary criticism is the study of literature by means of a microscopic knowledge of the language in which a book is written, of its growth from various roots, of its stages of development and the factors influencing them, of its condition in the period of this particular composition, of the writer's idiosyncrasies of thought and style in his ripening periods, of the general history and literature of his race, and of the special characteristics of his age and of his contemporary writers.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "growth",
+        "e2_contents": "roots",
+        "id": "original:7710"
+    },
+    {
+        "sent": "Among the contents of the vessel were a set of carpenter's tools, several large storage jars, ceramic utensils, ropes and remnants of food, as well as a heavy load of ballast stones.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "vessel",
+        "e2_contents": "tools",
+        "id": "original:7711"
+    },
+    {
+        "sent": "The ringtone makes the telecommunicator.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "ringtone",
+        "e2_contents": "telecommunicator",
+        "id": "original:7712"
+    },
+    {
+        "sent": "Construction workers utilized a crane to assist in bringing roofing materials up to the top.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "workers",
+        "e2_contents": "crane",
+        "id": "original:7713"
+    },
+    {
+        "sent": "The spiciness comes from small capsaicin glands located between the pepper's outside skin and the white ribs inside.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "spiciness",
+        "e2_contents": "glands",
+        "id": "original:7714"
+    },
+    {
+        "sent": "In one day, the Red Crescent treated more than 50 injuries - mainly broken bones caused by panic from aftershocks.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "panic",
+        "e2_contents": "aftershocks",
+        "id": "original:7715"
+    },
+    {
+        "sent": "American sports are played with the hands.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "sports",
+        "e2_contents": "hands",
+        "id": "original:7716"
+    },
+    {
+        "sent": "The climber had a hook in each hand.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "climber",
+        "e2_contents": "hook",
+        "id": "original:7717"
+    },
+    {
+        "sent": "Japanese commuters look at a clock inside a Tokyo train station.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "clock",
+        "e2_contents": "train station",
+        "id": "original:7718"
+    },
+    {
+        "sent": "The bomb was contained in a suitcase and was planted by two men.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "bomb",
+        "e2_contents": "suitcase",
+        "id": "original:7719"
+    },
+    {
+        "sent": "I am installing lights under the cabinets in my kitchen.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "cabinets",
+        "e2_contents": "kitchen",
+        "id": "original:7720"
+    },
+    {
+        "sent": "The implementor makes the decision, not the protocol.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "implementor",
+        "e2_contents": "decision",
+        "id": "original:7721"
+    },
+    {
+        "sent": "He mounts the photo on a material that contains acid, so that the paper absorbs the acid which in turn attacks the photo itself.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "material",
+        "e2_contents": "acid",
+        "id": "original:7722"
+    },
+    {
+        "sent": "The commander sawed logs with his neck hanging radically from one medieval arm while his feet hung three feet above the hardwood floor on the other side.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "commander",
+        "e2_contents": "neck",
+        "id": "original:7723"
+    },
+    {
+        "sent": "In the most common form of such an attack, called ischemic stroke, the blockage comes from a blood clot that develops in one of the brain's blood vessels.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "blockage",
+        "e2_contents": "clot",
+        "id": "original:7724"
+    },
+    {
+        "sent": "The diener takes a large scalpel and makes the incision in the trunk.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "diener",
+        "e2_contents": "scalpel",
+        "id": "original:7725"
+    },
+    {
+        "sent": "As for camera/lens info, the photographer made the picture, not the camera.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "photographer",
+        "e2_contents": "picture",
+        "id": "original:7726"
+    },
+    {
+        "sent": "The report links conditions in some of the worst affected localities and the likelihood that dire poverty - combined with despair and outrage over rampant corruption, repressive policies, and governments' failure to address local needs - could lead to outbreaks of localised unrest with the potential to spread into a wider regional conflict.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "outrage",
+        "e2_contents": "corruption",
+        "id": "original:7727"
+    },
+    {
+        "sent": "Everybody in the region experienced the tremors after midnight.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "tremors",
+        "e2_contents": "midnight",
+        "id": "original:7728"
+    },
+    {
+        "sent": "A thermostat keeps the water at the requested temperature.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "thermostat",
+        "e2_contents": "water",
+        "id": "original:7729"
+    },
+    {
+        "sent": "In response to the problem, the assembly composed the following statement.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "assembly",
+        "e2_contents": "statement",
+        "id": "original:7730"
+    },
+    {
+        "sent": "The morning session contains a tutorial that aims to address the basic issues necessary for a better understanding of this complicated topic.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "morning session",
+        "e2_contents": "tutorial",
+        "id": "original:7731"
+    },
+    {
+        "sent": "The troubled company is still feeling aftershocks after its devastating withdrawal of the pain medication Vioxx six months ago.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "aftershocks",
+        "e2_contents": "withdrawal",
+        "id": "original:7732"
+    },
+    {
+        "sent": "The company's storage strategy is derived from customer's needs.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "strategy",
+        "e2_contents": "needs",
+        "id": "original:7733"
+    },
+    {
+        "sent": "Like many recipes for stuffing, the original recipe contained apples, but as apples are a higher carb fruit, I have substituted cranberries which have the dual effect of making the stuffing lower carb than the regular recipe and also adding a little extra seasonal color and flavor.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "recipe",
+        "e2_contents": "apples",
+        "id": "original:7734"
+    },
+    {
+        "sent": "Energy expenditure through physical activity is a key component in the prevention and treatment of overweight and obesity.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "expenditure",
+        "e2_contents": "activity",
+        "id": "original:7735"
+    },
+    {
+        "sent": "Among the additional contents of the box were a controller, an audio/video connector, a plug, and quite a few manuals and booklets.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "box",
+        "e2_contents": "controller",
+        "id": "original:7736"
+    },
+    {
+        "sent": "The artist who originally made the song popular is listed for reference only.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "artist",
+        "e2_contents": "song",
+        "id": "original:7737"
+    },
+    {
+        "sent": "Under the circumstance that the wife comes from a wealthy family, her dissatisfactions with her marriage may make her seem like a spoiled brat.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "wife",
+        "e2_contents": "family",
+        "id": "original:7738"
+    },
+    {
+        "sent": "The video contains a clip from the movie.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "video",
+        "e2_contents": "clip",
+        "id": "original:7739"
+    },
+    {
+        "sent": "Originally, the typewriter sales companies sold the typist with the typewriter.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "typist",
+        "e2_contents": "typewriter",
+        "id": "original:7740"
+    },
+    {
+        "sent": "Your garden does well with either of these soils since these soils come from a reputable dealer.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "soils",
+        "e2_contents": "dealer",
+        "id": "original:7741"
+    },
+    {
+        "sent": "The quartz sample tube with polyradical residue was cut with diamond knife to the size that fit into the Teflon digestion vessel.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "tube",
+        "e2_contents": "knife",
+        "id": "original:7742"
+    },
+    {
+        "sent": "Clinton Portis, who missed last week's game against Dallas because of a shoulder injury from the preseason, rushed for 86 yards on 16 attempts to become the fifth-fastest player to reach the 6,000-yard mark in his career.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "injury",
+        "e2_contents": "preseason",
+        "id": "original:7743"
+    },
+    {
+        "sent": "The batteries are kept in a phone.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "batteries",
+        "e2_contents": "phone",
+        "id": "original:7744"
+    },
+    {
+        "sent": "The cathode emits electrons.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "cathode",
+        "e2_contents": "electrons",
+        "id": "original:7745"
+    },
+    {
+        "sent": "The product emits radiation.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "product",
+        "e2_contents": "radiation",
+        "id": "original:7746"
+    },
+    {
+        "sent": "They put wine in the exact context it needs to be kept in - not so bloody serious.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "wine",
+        "e2_contents": "context",
+        "id": "original:7747"
+    },
+    {
+        "sent": "The lower portion of the building contained hundreds of storage rooms.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "building",
+        "e2_contents": "storage rooms",
+        "id": "original:7748"
+    },
+    {
+        "sent": "Infection starts with manual execution of the binary.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Infection",
+        "e2_contents": "execution",
+        "id": "original:7749"
+    },
+    {
+        "sent": "Like a carpenter wielding an axe to make furniture, the hacker does good things with his skills.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "carpenter",
+        "e2_contents": "axe",
+        "id": "original:7750"
+    },
+    {
+        "sent": "The construction gives a refinement of Nori's argument in the case of a self-product of a curve.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "construction",
+        "e2_contents": "refinement",
+        "id": "original:7751"
+    },
+    {
+        "sent": "The architect created the beautiful division of the space and the exact proportions, the sculptor produced the anatomically correct figures, and the painter knew how to blend forms and colours into perfect harmony.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "sculptor",
+        "e2_contents": "figures",
+        "id": "original:7752"
+    },
+    {
+        "sent": "Picric acid is kept in an aqueous solution, which makes it suitable and safe to handle.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "Picric acid",
+        "e2_contents": "aqueous solution",
+        "id": "original:7753"
+    },
+    {
+        "sent": "Hoover is also notable for an extremely unusual vacuum cleaner, the Hoover Constellation, which is canister type but lacks wheels.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "vacuum",
+        "e2_contents": "cleaner",
+        "id": "original:7754"
+    },
+    {
+        "sent": "Although the goats were farmed for their fibre from early times it was not until the 16th century that export of the goats was permitted.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "goats",
+        "e2_contents": "fibre",
+        "id": "original:7755"
+    },
+    {
+        "sent": "The big savings is coming from the hardware side.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "savings",
+        "e2_contents": "hardware side",
+        "id": "original:7756"
+    },
+    {
+        "sent": "After the panel makes a recommendation, OraSure said it likely will formally apply to sell the test over-the-counter.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "panel",
+        "e2_contents": "recommendation",
+        "id": "original:7757"
+    },
+    {
+        "sent": "A juicer is a utensil used for squeezing juice from fruit.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "juicer",
+        "e2_contents": "squeezing",
+        "id": "original:7758"
+    },
+    {
+        "sent": "The kitchen contains basic items such as salt, pepper and olive oil.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "kitchen",
+        "e2_contents": "salt",
+        "id": "original:7759"
+    },
+    {
+        "sent": "Examples include the exclusion of certain benefits from funding standards and the exclusion of entire plans from certain funding requirements.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "exclusion",
+        "e2_contents": "standards",
+        "id": "original:7760"
+    },
+    {
+        "sent": "When he was back he noticed that he had locked the keys inside the car.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "keys",
+        "e2_contents": "car",
+        "id": "original:7761"
+    },
+    {
+        "sent": "The collaboration produced the PUMP(Pittsburg urban mathematics program) curriculum, which focuses on mathematical analyses of real-world situations, the use of computational tools, and on making algebra accessible to all students.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "collaboration",
+        "e2_contents": "curriculum",
+        "id": "original:7762"
+    },
+    {
+        "sent": "The only change is from the energy company's end, where their section of the gas or electricity infrastructure is now supplying an extra home.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "change",
+        "e2_contents": "end",
+        "id": "original:7763"
+    },
+    {
+        "sent": "A high voltage coupling capacitor is added at the input as well as a small hole in the metal box in order to provide screwdriver adjustment to the gain control potentiometer.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "hole",
+        "e2_contents": "metal box",
+        "id": "original:7764"
+    },
+    {
+        "sent": "A potato peeler is a metal blade attached to a metal, plastic or wooden handle that is used for peeling vegetables, usually potatoes.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "potato",
+        "e2_contents": "peeler",
+        "id": "original:7765"
+    },
+    {
+        "sent": "A pool with a sand beach is located inside the cave.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "beach",
+        "e2_contents": "cave",
+        "id": "original:7766"
+    },
+    {
+        "sent": "The third observation was made with the Echellette spectrograph.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "observation",
+        "e2_contents": "spectrograph",
+        "id": "original:7767"
+    },
+    {
+        "sent": "For projects submitted at national level, the volunteer is sent by a organization legally established in his/her country of residence.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "volunteer",
+        "e2_contents": "organization",
+        "id": "original:7768"
+    },
+    {
+        "sent": "In zen, there is a strong relationship between work and food, for the former begets the latter.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "work",
+        "e2_contents": "food",
+        "id": "original:7769"
+    },
+    {
+        "sent": "Different from the curry source, chicken bouillon is mainly distilled from chicken.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "bouillon",
+        "e2_contents": "chicken",
+        "id": "original:7770"
+    },
+    {
+        "sent": "The original Waldorf salad, created at New York's Waldorf Astoria Hotel in the 1890s, contained only apples, mayonnaise, and celery.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "salad",
+        "e2_contents": "apples",
+        "id": "original:7771"
+    },
+    {
+        "sent": "There were the years of constant fatigue and shortness of breath, the heart attack at age 11, the collapse from exhaustion on her high school graduation night.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "collapse",
+        "e2_contents": "exhaustion",
+        "id": "original:7772"
+    },
+    {
+        "sent": "The commission merely implements the contracts, shielding the major party candidates from public criticism.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "candidates",
+        "e2_contents": "criticism",
+        "id": "original:7773"
+    },
+    {
+        "sent": "The Board selected a list of expenditure reduction and revenue increase from the list attached to staff report.",
+        "relation_type": 8,
+        "is_active": 0,
+        "e1_contents": "increase",
+        "e2_contents": "list",
+        "id": "original:7774"
+    },
+    {
+        "sent": "The contents of the memorandum included stigmatizing statements about Cannon.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "memorandum",
+        "e2_contents": "stigmatizing statements",
+        "id": "original:7775"
+    },
+    {
+        "sent": "The PRI government crushed a burgeoning student movement with gunfire that killed scores of peaceful demonstrators.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "government",
+        "e2_contents": "gunfire",
+        "id": "original:7776"
+    },
+    {
+        "sent": "And because of a last minute collapse from top to bottom - what would be and should be a perfect season to this point is just another year.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "collapse",
+        "e2_contents": "top",
+        "id": "original:7777"
+    },
+    {
+        "sent": "The surrounding region is farmed for its fertility.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "region",
+        "e2_contents": "fertility",
+        "id": "original:7778"
+    },
+    {
+        "sent": "Peterson worked as a fertilizer salesman before his arrest.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "fertilizer",
+        "e2_contents": "salesman",
+        "id": "original:7779"
+    },
+    {
+        "sent": "Surgery after radiation chemotherapy is an effective local treatment, which is able to significantly increase local tumor control compared to radiation chemotherapy only.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "Surgery",
+        "e2_contents": "chemotherapy",
+        "id": "original:7780"
+    },
+    {
+        "sent": "The pipeline had to face the following main concerns from opposition: disturbance of animal migration patterns, environmental damage from spills, geological concerns and the Alaskan permafrost.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "spills",
+        "id": "original:7781"
+    },
+    {
+        "sent": "The collection contained books, magazines, journals, and newspapers.",
+        "relation_type": 7,
+        "is_active": 0,
+        "e1_contents": "collection",
+        "e2_contents": "books",
+        "id": "original:7782"
+    },
+    {
+        "sent": "Agarwood, the world's most valuable incense, is produced by the aquilaria tree, found in tropical rainforests, and has been used for centuries as incense and in traditional medicine.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "Agarwood",
+        "e2_contents": "aquilaria tree",
+        "id": "original:7783"
+    },
+    {
+        "sent": "So the inscription didn't name the pistol's maker, or the artist who decorated it, or the year it was made.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "pistol",
+        "e2_contents": "maker",
+        "id": "original:7784"
+    },
+    {
+        "sent": "The following excerpt is from the self help psychology book, Be Your Own Therapist.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "excerpt",
+        "e2_contents": "book",
+        "id": "original:7785"
+    },
+    {
+        "sent": "Among the contents of the bag were a diamond ring worth $2000 and a watch worth $500.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "bag",
+        "e2_contents": "diamond ring",
+        "id": "original:7786"
+    },
+    {
+        "sent": "A dining room that contains direct access from the kitchen is the most practical, unless the room will exist for fluff purposes only.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "dining room",
+        "e2_contents": "access",
+        "id": "original:7787"
+    },
+    {
+        "sent": "A therapist helps the patient to understand himself or herself better.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "therapist",
+        "e2_contents": "patient",
+        "id": "original:7788"
+    },
+    {
+        "sent": "Dehydration from fluid loss is the only major problem the virus causes, most often in the elderly.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Dehydration",
+        "e2_contents": "loss",
+        "id": "original:7789"
+    },
+    {
+        "sent": "When the request comes from a private company, there's no law that requires them to provide a disclosure notice.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "request",
+        "e2_contents": "company",
+        "id": "original:7790"
+    },
+    {
+        "sent": "Sharp, as a handset maker, produces panels for a possible competitor.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "handset",
+        "e2_contents": "maker",
+        "id": "original:7791"
+    },
+    {
+        "sent": "Yoga is fantastic for increased flexibility, which is great for cross-training with all the other programs we offer.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Yoga",
+        "e2_contents": "flexibility",
+        "id": "original:7792"
+    },
+    {
+        "sent": "The electricity is produced by 440 nuclear reactors in 31 countries.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "electricity",
+        "e2_contents": "reactors",
+        "id": "original:7793"
+    },
+    {
+        "sent": "Outraged, upon his release and return to England, the artist produced the virulently anti-French painting based on his experience there.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "artist",
+        "e2_contents": "painting",
+        "id": "original:7794"
+    },
+    {
+        "sent": "Interspersed in the design are patterns derived from a variety of textiles.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "patterns",
+        "e2_contents": "textiles",
+        "id": "original:7795"
+    },
+    {
+        "sent": "A mediator assists the parties in finding their own answers for the problems before them by encouraging constructive communications, keeping the parties focused on settlement alternatives, offering information and suggestions as needed, and building the foundation for improved relations between the parties.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "mediator",
+        "e2_contents": "parties",
+        "id": "original:7796"
+    },
+    {
+        "sent": "This year's newest attractions include a dedicated music zone which takes you on a musical journey around the world and gives you a chance to experience musical ecstasy from different cultures.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "ecstasy",
+        "e2_contents": "cultures",
+        "id": "original:7797"
+    },
+    {
+        "sent": "The heater inside the car consumed gasoline.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "heater",
+        "e2_contents": "car",
+        "id": "original:7798"
+    },
+    {
+        "sent": "The defendant and I flinched when the judge pounded his gavel.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "judge",
+        "e2_contents": "gavel",
+        "id": "original:7799"
+    },
+    {
+        "sent": "He was a trouble maker then, a leader in SDS, and a trouble maker he remains.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "trouble",
+        "e2_contents": "maker",
+        "id": "original:7800"
+    },
+    {
+        "sent": "The driver was trapped inside the car, which landed upside down, and died while emergency crews were preparing to transport him to a local hospital.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "driver",
+        "e2_contents": "car",
+        "id": "original:7801"
+    },
+    {
+        "sent": "In the lineup, the police literally put the defendant in a line with other people to see if the victim or witness can identify anyone in the line as having participated in a crime.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "defendant",
+        "e2_contents": "line",
+        "id": "original:7802"
+    },
+    {
+        "sent": "The test is made by inserting the end of a jimmy or other burglar's tool and endeavouring to produce impressions similar to those which have been found on doors or windows.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "jimmy",
+        "e2_contents": "burglar",
+        "id": "original:7803"
+    },
+    {
+        "sent": "Since the evacuation was after normal business hours, the on-duty Security Officer and maintenance personnel were responsible for the notification and evacuation of occupants of all buildings.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "evacuation",
+        "e2_contents": "business hours",
+        "id": "original:7804"
+    },
+    {
+        "sent": "The controlled environment facility is for growth of experimental material only.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "facility",
+        "e2_contents": "growth",
+        "id": "original:7805"
+    },
+    {
+        "sent": "The materials were produced by mixing the constituents and processing them through a press/sinter cycle to produce a consolidated material.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "materials",
+        "e2_contents": "mixing",
+        "id": "original:7806"
+    },
+    {
+        "sent": "The hotel is in the style of a country lodge and only has 18 rooms.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "country",
+        "e2_contents": "lodge",
+        "id": "original:7807"
+    },
+    {
+        "sent": "The microwave oven is one of the great inventions of the 20th century.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "microwave",
+        "e2_contents": "oven",
+        "id": "original:7808"
+    },
+    {
+        "sent": "Some of the land was farmed for coffee in the past, but it is now mostly native vegetation (with some emergent trees).",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "land",
+        "e2_contents": "coffee",
+        "id": "original:7809"
+    },
+    {
+        "sent": "The satisfaction was complete - please find below a statement from the producer.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "statement",
+        "e2_contents": "producer",
+        "id": "original:7810"
+    },
+    {
+        "sent": "In summer 2000, an Adventist church in Polotsk, Vitebsk Region, was damaged by a fire started with flammable liquids.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fire",
+        "e2_contents": "flammable liquids",
+        "id": "original:7811"
+    },
+    {
+        "sent": "The jelly inside a doughnut is scalding while the pastry is only warm.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "jelly",
+        "e2_contents": "doughnut",
+        "id": "original:7812"
+    },
+    {
+        "sent": "The film also features documentary like segments about fishing and about the evacuation after the eruption of the volcano.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "evacuation",
+        "e2_contents": "eruption",
+        "id": "original:7813"
+    },
+    {
+        "sent": "The voltage swing obtainable across the load is greater than the output voltage swing obtainable from the amplifier alone, thus the efficiency of the amplifier system and power handling capacity of the system are improved.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "swing",
+        "e2_contents": "amplifier",
+        "id": "original:7814"
+    },
+    {
+        "sent": "This was the signal for dozens of others to do the same and the noise inside the car was quite something.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "noise",
+        "e2_contents": "car",
+        "id": "original:7815"
+    },
+    {
+        "sent": "During a dribble the dribbler keeps the ball on the side of his body that is away from the defender.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "dribbler",
+        "e2_contents": "ball",
+        "id": "original:7816"
+    },
+    {
+        "sent": "In 1871, nearly 60 percent of the Italian population farmed for a living, attempting to eke out an existence from arid land that often was not their own.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "population",
+        "e2_contents": "living",
+        "id": "original:7817"
+    },
+    {
+        "sent": "Another good example of the importance of hormonal balance in the body is the growth hormone produced by the pituitary gland.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "growth hormone",
+        "e2_contents": "pituitary gland",
+        "id": "original:7818"
+    },
+    {
+        "sent": "The astronauts used the orbiter boom sensor system mounted on the end of the shuttle's robotic arm.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "astronauts",
+        "e2_contents": "system",
+        "id": "original:7819"
+    },
+    {
+        "sent": "There are four caverns located inside the cave with the tunnel heading west being the largest.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "caverns",
+        "e2_contents": "cave",
+        "id": "original:7820"
+    },
+    {
+        "sent": "Cooperation through physical activity promotes important life skills.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "Cooperation",
+        "e2_contents": "activity",
+        "id": "original:7821"
+    },
+    {
+        "sent": "Tapestries of rocky coastlines share wall space with a clock inside a ship's wheel.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "clock",
+        "e2_contents": "wheel",
+        "id": "original:7822"
+    },
+    {
+        "sent": "Before the barber takes his scissors out, family, friends and rabbis take turns snipping.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "barber",
+        "e2_contents": "scissors",
+        "id": "original:7823"
+    },
+    {
+        "sent": "We examined mood alterations through physical activity and other interventions.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "alterations",
+        "e2_contents": "activity",
+        "id": "original:7824"
+    },
+    {
+        "sent": "Virtually all hillside farmers grow maize during both seasons, and many of the farmers cultivate beans, rice, and other crops as well.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "farmers",
+        "e2_contents": "maize",
+        "id": "original:7825"
+    },
+    {
+        "sent": "In addition, scientists maye have a number of potentially useful targets to prevent and treat this lethal tumour because of the findings that NOX5 mediated overproduction of hydrogen peroxide is responsible for increased growth and decreased death of cancer cells.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "overproduction",
+        "e2_contents": "growth",
+        "id": "original:7826"
+    },
+    {
+        "sent": "Canola seed are small, and placement at a shallow depth is required.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "Canola",
+        "e2_contents": "seed",
+        "id": "original:7827"
+    },
+    {
+        "sent": "The mustard is made from brown or black mustard seed and has a smooth, not-too-acidic flavor.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "mustard",
+        "e2_contents": "seed",
+        "id": "original:7828"
+    },
+    {
+        "sent": "The gavel helps the judge establish his or her rule over the court room.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "gavel",
+        "e2_contents": "judge",
+        "id": "original:7829"
+    },
+    {
+        "sent": "We actually did put tea in the food.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "tea",
+        "e2_contents": "food",
+        "id": "original:7830"
+    },
+    {
+        "sent": "The catalogue contained books published in 1998 warning of the upcoming millennium bug and other similarly germane works, but neither of Brock's bestsellers.",
+        "relation_type": 7,
+        "is_active": 0,
+        "e1_contents": "catalogue",
+        "e2_contents": "books",
+        "id": "original:7831"
+    },
+    {
+        "sent": "We even heard from descendants of Gustav Schoenike who was the violin maker.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "violin",
+        "e2_contents": "maker",
+        "id": "original:7832"
+    },
+    {
+        "sent": "The kitchen contained a large stove, a sink, a small table with chairs, and an old sofa that had seen many children and grandchildren tear at its skin.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "kitchen",
+        "e2_contents": "stove",
+        "id": "original:7833"
+    },
+    {
+        "sent": "In a little time the numbers increased from forty-five to eighty, and soon after to a greater number; which, with the majority of the clergy, and the whole of the national representatives, put the malcontents in a very diminutive condition.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "malcontents",
+        "e2_contents": "diminutive condition",
+        "id": "original:7834"
+    },
+    {
+        "sent": "Paul the novelist has a computer but uses his old Smith Corona manual.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "novelist",
+        "e2_contents": "computer",
+        "id": "original:7835"
+    },
+    {
+        "sent": "It was also felt necessary at this time to draw up a similar document, dealing not with the prevention of marine pollution by dumping, but instead with the prevention of marine pollution by discharges of dangerous substances from land-based sources, watercourses or pipelines.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pollution",
+        "e2_contents": "dumping",
+        "id": "original:7836"
+    },
+    {
+        "sent": "Short-term disability and long-term disability benefits are available at no cost to USTelecom employees.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "disability",
+        "e2_contents": "benefits",
+        "id": "original:7837"
+    },
+    {
+        "sent": "The chart above is from the commission's 2005 report and outlines the strategic areas which require action.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "chart",
+        "e2_contents": "report",
+        "id": "original:7838"
+    },
+    {
+        "sent": "Equipment for making repairs en route was carried in a jockey box attached to one end or side of the wagon.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "Equipment",
+        "e2_contents": "jockey box",
+        "id": "original:7839"
+    },
+    {
+        "sent": "There are three set changes and two intervals which help the recovery from laughter, but the entertainment is maintained despite the well expected ending.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "recovery",
+        "e2_contents": "laughter",
+        "id": "original:7840"
+    },
+    {
+        "sent": "This proves that the generator actually produced the renewable energy purchased and acts as the operative instrument of the transaction.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "generator",
+        "e2_contents": "energy",
+        "id": "original:7841"
+    },
+    {
+        "sent": "He was a young refugee on the run from a nation at war.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "refugee",
+        "e2_contents": "nation",
+        "id": "original:7842"
+    },
+    {
+        "sent": "Because it's a strong, lint-free synthetic material with tiny absorbent fibers, microfiber allows a mop to hold sufficient water without dripping.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "microfiber",
+        "e2_contents": "mop",
+        "id": "original:7843"
+    },
+    {
+        "sent": "The shroud is kept in the cathedral of St. John the Baptist in Turin, Italy.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "shroud",
+        "e2_contents": "cathedral",
+        "id": "original:7844"
+    },
+    {
+        "sent": "The worms are in a box with bedding made from such materials as straw, grass clippings, or shredded paper.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "worms",
+        "e2_contents": "box",
+        "id": "original:7845"
+    },
+    {
+        "sent": "The said whistle produced the 2600 Hz tone necessary to authorize calls.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "whistle",
+        "e2_contents": "tone",
+        "id": "original:7846"
+    },
+    {
+        "sent": "These are new sorts of sponsors for us, a shoe company and a furniture maker.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "furniture",
+        "e2_contents": "maker",
+        "id": "original:7847"
+    },
+    {
+        "sent": "In addition to serving as a fertilizer ingredient, ammonia can also be used directly as a fertilizer by forming a solution with irrigation water, without additional chemical processing.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "fertilizer",
+        "e2_contents": "ingredient",
+        "id": "original:7848"
+    },
+    {
+        "sent": "While that operation was a success, the contents of the satchel were a tiny loss for the traffickers.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "contents",
+        "e2_contents": "loss",
+        "id": "original:7849"
+    },
+    {
+        "sent": "Anesthesia is not necessary since the dentist uses the drill and sandpaper discs and polishing wheels to reshape the teeth.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "dentist",
+        "e2_contents": "drill",
+        "id": "original:7850"
+    },
+    {
+        "sent": "This teaches that the body is procreated by the parents and the soul and spirit are directly created by God and placed in the body.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "body",
+        "e2_contents": "parents",
+        "id": "original:7851"
+    },
+    {
+        "sent": "The cup's a bit small but who cares, the machine makes coffee quickly enough that it's no problem to just make a second cup.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "machine",
+        "e2_contents": "coffee",
+        "id": "original:7852"
+    },
+    {
+        "sent": "There exists a widespread controversy over stem cell research that emanates from the techniques used in the creation and usage of stem cells.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "controversy",
+        "e2_contents": "research",
+        "id": "original:7853"
+    },
+    {
+        "sent": "In the months leading up to trade negotiations, estimates of the economic gains from trade liberalization suddenly become newsworthy.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "gains",
+        "e2_contents": "liberalization",
+        "id": "original:7854"
+    },
+    {
+        "sent": "Further left a boy is fighting a peacock with a stick, and to the right a boy is killing an attacking goat with a spear.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "boy",
+        "e2_contents": "stick",
+        "id": "original:7855"
+    },
+    {
+        "sent": "The resulting anti-social behaviour from alcohol consumption is an on-going matter that the town and the police continue to address, particularly in the summer months.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "behaviour",
+        "e2_contents": "consumption",
+        "id": "original:7856"
+    },
+    {
+        "sent": "In addition to his reputation as a film maker Lehmuskallio is also known as an artist.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "film",
+        "e2_contents": "maker",
+        "id": "original:7857"
+    },
+    {
+        "sent": "The hostess made the following rules: no husband and wife could sit next to one another (to the right or to the left) and men had to alternate with women everywhere.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "hostess",
+        "e2_contents": "rules",
+        "id": "original:7858"
+    },
+    {
+        "sent": "The revolution brought forth impassioned pleas condemning the common law for not respecting the interests of the people and calling for law reform.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "revolution",
+        "e2_contents": "pleas",
+        "id": "original:7859"
+    },
+    {
+        "sent": "The glomeruli assist the kidneys in filtering urine from the blood.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "glomeruli",
+        "e2_contents": "kidneys",
+        "id": "original:7860"
+    },
+    {
+        "sent": "Today 75% of the county is intensively farmed for corn, soybeans, oats, and alfalfa with emphasis on dairy production.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "county",
+        "e2_contents": "corn",
+        "id": "original:7861"
+    },
+    {
+        "sent": "Not sure what brand of model it came from but the wings are from a trashed plane my buddy had.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "wings",
+        "e2_contents": "plane",
+        "id": "original:7862"
+    },
+    {
+        "sent": "And John was able to talk to some people in the U.S. government and verify that the substantive contents of the memo were a reasonably accurate transcription of what had transpired.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "memo",
+        "e2_contents": "transcription",
+        "id": "original:7863"
+    },
+    {
+        "sent": "He combines strawberries and powder sugar and mixes well.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "powder",
+        "e2_contents": "sugar",
+        "id": "original:7864"
+    },
+    {
+        "sent": "The health benefits of alcoholic beverages are the subject of this investigation.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "benefits",
+        "e2_contents": "beverages",
+        "id": "original:7865"
+    },
+    {
+        "sent": "The fruit basket contained apples, oranges and bananas.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "fruit basket",
+        "e2_contents": "apples",
+        "id": "original:7866"
+    },
+    {
+        "sent": "A pulsar powers the supernova remnant by confirming the existence of the point-like source and discovering a cloud of high-energy electrons around the central object.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "pulsar",
+        "e2_contents": "remnant",
+        "id": "original:7867"
+    },
+    {
+        "sent": "This is the same basic mechanism at work in a vacuum cleaner, though the execution is a bit more complicated.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "mechanism",
+        "e2_contents": "vacuum cleaner",
+        "id": "original:7868"
+    },
+    {
+        "sent": "He learned how cartographic evidence refutes the authenticity of the Vinland Map and from where the map's maker have drawn inspiration.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "map",
+        "e2_contents": "maker",
+        "id": "original:7869"
+    },
+    {
+        "sent": "And we do recommend excersise, as the kitchen holds culinary temptations in store for you that are bound to prolong your evening and lift your spirit.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "kitchen",
+        "e2_contents": "culinary temptations",
+        "id": "original:7870"
+    },
+    {
+        "sent": "I struggle for my dream of painless perfection but a snowdrift keeps the door from opening.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "snowdrift",
+        "e2_contents": "door",
+        "id": "original:7871"
+    },
+    {
+        "sent": "We conducted a usability test on the enterprise-wide navigation system for this heathcare company's proposed intranet redesign.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "heathcare",
+        "e2_contents": "company",
+        "id": "original:7872"
+    },
+    {
+        "sent": "Inhibition through synaptic depression is unlike the previous forms of inhibition in that it turns on more slowly and thus acts as delayed negative feedback.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Inhibition",
+        "e2_contents": "depression",
+        "id": "original:7873"
+    },
+    {
+        "sent": "Special construction and a rubberized trim helps the handset stand up to everyday wear-and-tear, and even occasional dropping.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "rubberized trim",
+        "e2_contents": "handset",
+        "id": "original:7874"
+    },
+    {
+        "sent": "A coffin maker has increased productivity by 20% since securing a 180000 pounds finance package from business angels.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "coffin",
+        "e2_contents": "maker",
+        "id": "original:7875"
+    },
+    {
+        "sent": "The joy comes from Cather's writing: precise observation and wording, the lilting cadence of her phrasing, the beautiful and clear pictures she evokes of scenery and characters, and the unfamiliar, old fashioned words and expressions she uses.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "joy",
+        "e2_contents": "writing",
+        "id": "original:7876"
+    },
+    {
+        "sent": "The robber was inside the office when the manager decided to take action and escape out the side door.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "robber",
+        "e2_contents": "office",
+        "id": "original:7877"
+    },
+    {
+        "sent": "Famine following drought has hit the West African savannahs, where there have been other bad droughts, notably the great one of 1972-74.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Famine",
+        "e2_contents": "drought",
+        "id": "original:7878"
+    },
+    {
+        "sent": "The contents of the binder included handouts on lectures, lab. exercises, assignments, as well as production information of use to the participants.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "binder",
+        "e2_contents": "handouts",
+        "id": "original:7879"
+    },
+    {
+        "sent": "When you're an immigrant or refugee from any country then you have an experience with a botched translated name.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "refugee",
+        "e2_contents": "country",
+        "id": "original:7880"
+    },
+    {
+        "sent": "But for the family that shares the cooking and clean up duties, the kitchen holds a special nuturing role beyond supplying nutrition for the physical body.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "kitchen",
+        "e2_contents": "nuturing role",
+        "id": "original:7881"
+    },
+    {
+        "sent": "Stereograph produces the same output.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "Stereograph",
+        "e2_contents": "output",
+        "id": "original:7882"
+    },
+    {
+        "sent": "The small knife assemblies are widely used for cutting various strips of flexible materials.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "assemblies",
+        "e2_contents": "strips",
+        "id": "original:7883"
+    },
+    {
+        "sent": "People harvest the seeds, macerate them, and roll them into thick sticks of dry, hardened paste which can then be stored or exported from the region.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "People",
+        "e2_contents": "seeds",
+        "id": "original:7884"
+    },
+    {
+        "sent": "The special ingredient in the lotion comes from a plant.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "ingredient",
+        "e2_contents": "plant",
+        "id": "original:7885"
+    },
+    {
+        "sent": "The total contents of the purse included a cell phone and wallet valued at $120.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "contents",
+        "e2_contents": "cell phone",
+        "id": "original:7886"
+    },
+    {
+        "sent": "In 1996, a major publishing company simultaneously launched in 13 countries a dinosaur cartoon strip carried in a weekly comic book.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "cartoon strip",
+        "e2_contents": "comic book",
+        "id": "original:7887"
+    },
+    {
+        "sent": "Grubs tend to cause significant damage from autumn to spring by which time the larvae are becoming fully grown.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "autumn",
+        "id": "original:7888"
+    },
+    {
+        "sent": "It was originally assumed that the ingredients responsible for drug interactions were the flavonoids that give grapefruit juice its bitter taste.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "grapefruit",
+        "e2_contents": "juice",
+        "id": "original:7889"
+    },
+    {
+        "sent": "The headmaster made the formal announcement.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "headmaster",
+        "e2_contents": "announcement",
+        "id": "original:7890"
+    },
+    {
+        "sent": "The kitchen contained a well at the northern end and a well and two holding areas for live fish on the southern end.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "kitchen",
+        "e2_contents": "well",
+        "id": "original:7891"
+    },
+    {
+        "sent": "The contents of the cyst included a foul smelling gas and white-green pus.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "cyst",
+        "e2_contents": "gas",
+        "id": "original:7892"
+    },
+    {
+        "sent": "Adults with sleep deprivation who listened to soft classical music at bedtime reported a 35 percent improvement in their quality of sleep.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "Adults",
+        "e2_contents": "sleep deprivation",
+        "id": "original:7893"
+    },
+    {
+        "sent": "The kitchen holds a cooker, fridge, microwave oven, in short; everything you need if you want to prepare a light meal.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "kitchen",
+        "e2_contents": "cooker",
+        "id": "original:7894"
+    },
+    {
+        "sent": "The building contained a large open central space with tables and chairs as well as a nursery and two tearooms.",
+        "relation_type": 6,
+        "is_active": 0,
+        "e1_contents": "building",
+        "e2_contents": "open central space",
+        "id": "original:7895"
+    },
+    {
+        "sent": "The knight raised his dragon battle axe, and dealt the creature a crushing blow.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "knight",
+        "e2_contents": "battle axe",
+        "id": "original:7896"
+    },
+    {
+        "sent": "Grapefruit juice causes more of these drugs to enter the blood.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "Grapefruit",
+        "e2_contents": "juice",
+        "id": "original:7897"
+    },
+    {
+        "sent": "By the early '90s, Indian entrepreneurs bought a majority of the properties and flourished with the new immigrants from the subcontinent.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "immigrants",
+        "e2_contents": "subcontinent",
+        "id": "original:7898"
+    },
+    {
+        "sent": "The colours were similarly derived from the stylesheet.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "colours",
+        "e2_contents": "stylesheet",
+        "id": "original:7899"
+    },
+    {
+        "sent": "At that point the patient grabbed the arm of the dentist to forcibly pull the drill out of his mouth.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "dentist",
+        "e2_contents": "drill",
+        "id": "original:7900"
+    },
+    {
+        "sent": "It was this moist ground that during construction engulfed a crane which remains under the stadium today.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "ground",
+        "e2_contents": "crane",
+        "id": "original:7901"
+    },
+    {
+        "sent": "Tom plans to continue to live the country life as he grows older.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "country",
+        "e2_contents": "life",
+        "id": "original:7902"
+    },
+    {
+        "sent": "Near Adelaide the land is intensively farmed for dairying, fruit, and vegetables.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "land",
+        "e2_contents": "dairying",
+        "id": "original:7903"
+    },
+    {
+        "sent": "Bevan opens a case on the other side of the room and pulls out a flask that contains ale of the best sort.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "flask",
+        "e2_contents": "ale",
+        "id": "original:7904"
+    },
+    {
+        "sent": "Ride Metrorail and then pick up a car just steps from the train to run errands, shop or reach any other business or social event not easily accessible via transit.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "steps",
+        "e2_contents": "train",
+        "id": "original:7905"
+    },
+    {
+        "sent": "Providence had sent the old man into the world with a chisel in his hand.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "man",
+        "e2_contents": "chisel",
+        "id": "original:7906"
+    },
+    {
+        "sent": "And, of course, everyone wants to prove the truth of their beliefs through experience, but the belief begets the experience.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "belief",
+        "e2_contents": "experience",
+        "id": "original:7907"
+    },
+    {
+        "sent": "The mesopause separates the mesosphere from the thermosphere.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "mesosphere",
+        "e2_contents": "thermosphere",
+        "id": "original:7908"
+    },
+    {
+        "sent": "Unlike earlier machines, their typewriter permits the typist to see what is being typed and has other features that make it the first really practical typing machine.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "typewriter",
+        "e2_contents": "typist",
+        "id": "original:7909"
+    },
+    {
+        "sent": "Avocado butter is a very rich, moisturizing treatment for the hair and skin, and it has some natural sunscreen properties.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "Avocado",
+        "e2_contents": "butter",
+        "id": "original:7910"
+    },
+    {
+        "sent": "The man radiated jolliness.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "man",
+        "e2_contents": "jolliness",
+        "id": "original:7911"
+    },
+    {
+        "sent": "Earplugs relieve the discomfort from traveling with a cold allergy or sinus condition.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "discomfort",
+        "e2_contents": "traveling",
+        "id": "original:7912"
+    },
+    {
+        "sent": "There is a rise in erratic behaviour from substance abuse and frustration caused by long waits for hospital treatment.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "behaviour",
+        "e2_contents": "abuse",
+        "id": "original:7913"
+    },
+    {
+        "sent": "The sisters are teenage refugees from a violent home, living alone in a faded Victorian mansion where they survive by creating a closed world centered around each other and their new friends -- a rowdy makeshift family of castoffs, dealers, and drama queens on the periphery of the burgeoning drug game, some looking for a way out, some looking for a way deeper in.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "refugees",
+        "e2_contents": "home",
+        "id": "original:7914"
+    },
+    {
+        "sent": "In Europe the fuel is distilled from canola oil.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "fuel",
+        "e2_contents": "oil",
+        "id": "original:7915"
+    },
+    {
+        "sent": "She prepared some beef bouillon and let it cool.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "beef",
+        "e2_contents": "bouillon",
+        "id": "original:7916"
+    },
+    {
+        "sent": "Surrounding each neuron there was a group of cells of the glial type (satellite cells), which together with the collagen fibres composed the glial capsule.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "fibres",
+        "e2_contents": "glial capsule",
+        "id": "original:7917"
+    },
+    {
+        "sent": "The residents and scientists learned from the Krakatau explosion.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "scientists",
+        "e2_contents": "explosion",
+        "id": "original:7918"
+    },
+    {
+        "sent": "This is an overview of the viewer from a developer's perspective.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "developer",
+        "e2_contents": "perspective",
+        "id": "original:7919"
+    },
+    {
+        "sent": "Months later, the birds composed the syllables into complete songs, whether the songs matched natural patterns or not.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "birds",
+        "e2_contents": "syllables",
+        "id": "original:7920"
+    },
+    {
+        "sent": "The spring molt produces mottled brown feathers, making the female almost invisible as she sits on her nest.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "molt",
+        "e2_contents": "feathers",
+        "id": "original:7921"
+    },
+    {
+        "sent": "The student committee developed the following guidelines.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "committee",
+        "e2_contents": "guidelines",
+        "id": "original:7922"
+    },
+    {
+        "sent": "Beauty had scarcely uttered these words when the castle radiated with light.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "castle",
+        "e2_contents": "light",
+        "id": "original:7923"
+    },
+    {
+        "sent": "Muscles, tendons, and ligaments surround the ankle providing the stability the ankle joint needs for walking and running.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "stability",
+        "e2_contents": "ankle joint",
+        "id": "original:7924"
+    },
+    {
+        "sent": "The basement carpeting is made from recycled plastic pop bottles, and the underpad was once automobile tires.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "underpad",
+        "e2_contents": "tires",
+        "id": "original:7925"
+    },
+    {
+        "sent": "After the cashier put the cash in a bag, the robber saw a bottle of scotch that he wanted behind the counter on the shelf.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "cash",
+        "e2_contents": "bag",
+        "id": "original:7926"
+    },
+    {
+        "sent": "This durable short sleeve crew neck tee shirt is made of preshrunk cotton to minimize shrinkage after washing.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "shrinkage",
+        "e2_contents": "washing",
+        "id": "original:7927"
+    },
+    {
+        "sent": "The institution provides a deposit, as set in the Commission dues and fees schedule, towards the fee when it submits its appeal document.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "institution",
+        "e2_contents": "deposit",
+        "id": "original:7928"
+    },
+    {
+        "sent": "We take multivitamin that contains vitamins D, E, K, and beta-carotene.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "multivitamin",
+        "e2_contents": "vitamins",
+        "id": "original:7929"
+    },
+    {
+        "sent": "The developer duly writes a test case, makes the necessary code changes, ensures the test passes, checks the code in and considers the job finished.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "developer",
+        "e2_contents": "case",
+        "id": "original:7930"
+    },
+    {
+        "sent": "Many students deviate from the ideal curricula presented in a later section of this bulletin.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "students",
+        "e2_contents": "curricula",
+        "id": "original:7931"
+    },
+    {
+        "sent": "The sound system is contained in a suitcase and controlled from within the steering wheel.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "sound system",
+        "e2_contents": "suitcase",
+        "id": "original:7932"
+    },
+    {
+        "sent": "Givers gain moral strength and happiness from giving.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "happiness",
+        "e2_contents": "giving",
+        "id": "original:7933"
+    },
+    {
+        "sent": "Effective canola production requires hands-on involvement with the crop.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "canola",
+        "e2_contents": "production",
+        "id": "original:7934"
+    },
+    {
+        "sent": "The boy who made the threat was arrested, charged, and had items confiscated from his home.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "boy",
+        "e2_contents": "threat",
+        "id": "original:7935"
+    },
+    {
+        "sent": "Auto EQ is a powerful sound tuning feature which uses a microphone to monitor and analyse the acoustics inside the car.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "acoustics",
+        "e2_contents": "car",
+        "id": "original:7936"
+    },
+    {
+        "sent": "A very robust metal hydride discovery approach was made with a demonstrated HTS methodology.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "approach",
+        "e2_contents": "methodology",
+        "id": "original:7937"
+    },
+    {
+        "sent": "The Norwalk juicer grinds and presses any fruit or vegetable.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "juicer",
+        "e2_contents": "fruit",
+        "id": "original:7938"
+    },
+    {
+        "sent": "Citing the conflict of interest created by the ethics charges, Nifong asked the state attorney general's office to take over the lacrosse case.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "conflict",
+        "e2_contents": "charges",
+        "id": "original:7939"
+    },
+    {
+        "sent": "On this oval porthole, a lace drape keeps the bathroom private while showing off the shapely window and letting in light.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "drape",
+        "e2_contents": "bathroom",
+        "id": "original:7940"
+    },
+    {
+        "sent": "The sub-catchment is farmed primarily for beef sucklers with a single dairy enterprise and a single poultry unit so the land use is entirely grassland.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "sub-catchment",
+        "e2_contents": "beef sucklers",
+        "id": "original:7941"
+    },
+    {
+        "sent": "The above advertisement is from the server provider not from me.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "advertisement",
+        "e2_contents": "provider",
+        "id": "original:7942"
+    },
+    {
+        "sent": "Sometimes joy comes from unexpected places.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "joy",
+        "e2_contents": "places",
+        "id": "original:7943"
+    },
+    {
+        "sent": "Located inside the cave was an old, broken-down army field telephone.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "cave",
+        "e2_contents": "telephone",
+        "id": "original:7944"
+    },
+    {
+        "sent": "Apartment residents in Delaware were awarded $1 million for health problems due to mold growth from unrepaired leaks.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "growth",
+        "e2_contents": "leaks",
+        "id": "original:7945"
+    },
+    {
+        "sent": "The rap star was apprehended at John Wayne Airport late last month and his truncheon was confiscated by police.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "truncheon",
+        "e2_contents": "police",
+        "id": "original:7946"
+    },
+    {
+        "sent": "The severe famine following the good years required a political and economic reorganization in the country.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "famine",
+        "e2_contents": "good years",
+        "id": "original:7947"
+    },
+    {
+        "sent": "A tokamak is a toroidal (doughnut shape) magnetic bottle that contains the fusion plasma.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "magnetic bottle",
+        "e2_contents": "fusion plasma",
+        "id": "original:7948"
+    },
+    {
+        "sent": "The image is from the poster 'Selling Counterfeit Products is Illegal'.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "image",
+        "e2_contents": "poster",
+        "id": "original:7949"
+    },
+    {
+        "sent": "Retailers have done their bit to put wine in the hands of the masses, to make it more accessible to the wider UK public.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "wine",
+        "e2_contents": "hands",
+        "id": "original:7950"
+    },
+    {
+        "sent": "The kitchen contained primarily drug paraphernalia.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "kitchen",
+        "e2_contents": "drug paraphernalia",
+        "id": "original:7951"
+    },
+    {
+        "sent": "Also, very rarely, hypnotherapy leads to the development of 'false memories' fabricated by the unconscious mind; these are called confabulations.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "memories",
+        "e2_contents": "mind",
+        "id": "original:7952"
+    },
+    {
+        "sent": "A rower has one oar in sweep rowing, an oar in each hand in sculling.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "rower",
+        "e2_contents": "oar",
+        "id": "original:7953"
+    },
+    {
+        "sent": "A lamp's lumen output expresses the total amount of light the lamp emits in all directions per unit time.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "light",
+        "e2_contents": "lamp",
+        "id": "original:7954"
+    },
+    {
+        "sent": "Now, I have a plastic bottle that contains alcohol in which I put my artificial eyelashes at night when I take them off, to clean them and keep them safe.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "bottle",
+        "e2_contents": "alcohol",
+        "id": "original:7955"
+    },
+    {
+        "sent": "The box holds all our empty promises to give back, to help others, to do something worthwhile - if only we weren't so busy.",
+        "relation_type": 3,
+        "is_active": 0,
+        "e1_contents": "box",
+        "e2_contents": "empty promises",
+        "id": "original:7956"
+    },
+    {
+        "sent": "The tutors provide a consistent, reliable intervention that allows students who are falling behind an opportunity to reach proficiency.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "tutors",
+        "e2_contents": "intervention",
+        "id": "original:7957"
+    },
+    {
+        "sent": "Brushing after meals became part of your daily schedule.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "Brushing",
+        "e2_contents": "meals",
+        "id": "original:7958"
+    },
+    {
+        "sent": "A bus company has pledged a week-long roadside survey after a group of workers complained about its Bradford to Morley service.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "bus",
+        "e2_contents": "company",
+        "id": "original:7959"
+    },
+    {
+        "sent": "When deliberations began, the crowd of people jamming the hallways radiated optimism.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "crowd",
+        "e2_contents": "optimism",
+        "id": "original:7960"
+    },
+    {
+        "sent": "We have a bright and cheery yellow casement window over the sink in my kitchen.",
+        "relation_type": 6,
+        "is_active": 1,
+        "e1_contents": "sink",
+        "e2_contents": "kitchen",
+        "id": "original:7961"
+    },
+    {
+        "sent": "The snooker player played the game with a smile on his face.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "player",
+        "e2_contents": "smile",
+        "id": "original:7962"
+    },
+    {
+        "sent": "Europeans have rejected wine produced from genetically modified grapevines, which has caused Californian wine-growers, who rely heavily on the European market, to worry.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "wine",
+        "e2_contents": "grapevines",
+        "id": "original:7963"
+    },
+    {
+        "sent": "Because the ice in the smoothie has to be crushed and blended with the other ingredients, a smoothie maker is usually the appliance of choice.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "smoothie",
+        "e2_contents": "maker",
+        "id": "original:7964"
+    },
+    {
+        "sent": "The defamation comes from a bishop.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "defamation",
+        "e2_contents": "bishop",
+        "id": "original:7965"
+    },
+    {
+        "sent": "The following advice is distilled from builders and first-hand experience.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "advice",
+        "e2_contents": "builders",
+        "id": "original:7966"
+    },
+    {
+        "sent": "The air in the jar started circulating to the rest of the room.",
+        "relation_type": 3,
+        "is_active": 1,
+        "e1_contents": "air",
+        "e2_contents": "jar",
+        "id": "original:7967"
+    },
+    {
+        "sent": "But Hong Kong was able to recover from that and is now experiencing strong economic growth from exports.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "growth",
+        "e2_contents": "exports",
+        "id": "original:7968"
+    },
+    {
+        "sent": "The legislature created the ombudsman to intervene when children or their parents are subjected to unauthorized or unreasonable agency decisions.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "legislature",
+        "e2_contents": "ombudsman",
+        "id": "original:7969"
+    },
+    {
+        "sent": "The sun emits light or radiation at a large range of energies or frequencies.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "sun",
+        "e2_contents": "light",
+        "id": "original:7970"
+    },
+    {
+        "sent": "Then, while you relax, the chef prepares the meal and serves it, restaurant-style.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "chef",
+        "e2_contents": "meal",
+        "id": "original:7971"
+    },
+    {
+        "sent": "However, the fact that the guinea pigs appeared to function in a normal physiological manner indicates that the diets contained the necessary energy density.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "diets",
+        "e2_contents": "energy density",
+        "id": "original:7972"
+    },
+    {
+        "sent": "The student provided a written request, mailed to the Executive Director of the Pacific Division.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "student",
+        "e2_contents": "request",
+        "id": "original:7973"
+    },
+    {
+        "sent": "In order for handwashing to be effective, vigorous friction, ample lather from soap, and thorough rinsing are needed to remove the germs from the hands.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "lather",
+        "e2_contents": "soap",
+        "id": "original:7974"
+    },
+    {
+        "sent": "Mr C notes worsening of seizures and cognition with sleep deprivation and stress.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "worsening",
+        "e2_contents": "deprivation",
+        "id": "original:7975"
+    },
+    {
+        "sent": "Get a quesadilla maker from one of your local discount stores such as Target, Walmart, or Kmart.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "quesadilla",
+        "e2_contents": "maker",
+        "id": "original:7976"
+    },
+    {
+        "sent": "Bernie the barber downed his scissors, leaving the final triangle of hair uncut.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "barber",
+        "e2_contents": "scissors",
+        "id": "original:7977"
+    },
+    {
+        "sent": "Not too long ago, the grass was farmed for hay; then, it was ditched for mosquito control.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "grass",
+        "e2_contents": "hay",
+        "id": "original:7978"
+    },
+    {
+        "sent": "The punk explosion cultivated the underground/indie rock scene that would one day be called 'alternative music'.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "explosion",
+        "e2_contents": "scene",
+        "id": "original:7979"
+    },
+    {
+        "sent": "The carpet is made from recycled materials.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "carpet",
+        "e2_contents": "materials",
+        "id": "original:7980"
+    },
+    {
+        "sent": "This is incorrect, and when a minicab company uses the word taxi on their livery it can lead to prosecution by the local government body.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "minicab",
+        "e2_contents": "company",
+        "id": "original:7981"
+    },
+    {
+        "sent": "A goal is like a mountain outcropping to which a climber throws a grappling hook and pulls themselves up.",
+        "relation_type": 1,
+        "is_active": 0,
+        "e1_contents": "climber",
+        "e2_contents": "grappling hook",
+        "id": "original:7982"
+    },
+    {
+        "sent": "A facilitator keeps the discussion focused and limited to the allotted time, while the recorder keeps a written record of the panel's recommendations.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "facilitator",
+        "e2_contents": "discussion",
+        "id": "original:7983"
+    },
+    {
+        "sent": "Hand creams counteract dryness from exposure to wind, sun, and detergents.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "dryness",
+        "e2_contents": "exposure",
+        "id": "original:7984"
+    },
+    {
+        "sent": "Eye discomfort from this staring effect is exacerbated by low humidity.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "discomfort",
+        "e2_contents": "staring effect",
+        "id": "original:7985"
+    },
+    {
+        "sent": "The lower mark is the Vienna company that made the mug.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "company",
+        "e2_contents": "mug",
+        "id": "original:7986"
+    },
+    {
+        "sent": "The transmitter emits a constant radio signal to crea.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "transmitter",
+        "e2_contents": "signal",
+        "id": "original:7987"
+    },
+    {
+        "sent": "Parents also experience anxiety from fear of the suffering of their child and worry about an uncertain outcome.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "anxiety",
+        "e2_contents": "fear",
+        "id": "original:7988"
+    },
+    {
+        "sent": "It just so happened that the horse bucked the rider and threw him into a mud-puddle.",
+        "relation_type": 1,
+        "is_active": 1,
+        "e1_contents": "horse",
+        "e2_contents": "rider",
+        "id": "original:7989"
+    },
+    {
+        "sent": "In some Asian countries, including China, Malaysia and the Philippines, the turtles are farmed for food.",
+        "relation_type": 4,
+        "is_active": 0,
+        "e1_contents": "turtles",
+        "e2_contents": "food",
+        "id": "original:7990"
+    },
+    {
+        "sent": "Using an e-prescription module in an electronic record system, the prescriber makes out a prescription and transfers it to the national e-prescription mailbox.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "prescriber",
+        "e2_contents": "prescription",
+        "id": "original:7991"
+    },
+    {
+        "sent": "State citizens created the states who created the federal government who created federal citizens.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "citizens",
+        "e2_contents": "states",
+        "id": "original:7992"
+    },
+    {
+        "sent": "In chemical lasers the inversion is produced by a chemical reaction.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "inversion",
+        "e2_contents": "reaction",
+        "id": "original:7993"
+    },
+    {
+        "sent": "The streaks are from a passing truck.",
+        "relation_type": 2,
+        "is_active": 1,
+        "e1_contents": "streaks",
+        "e2_contents": "truck",
+        "id": "original:7994"
+    },
+    {
+        "sent": "A V8 engine mated with a manual transmission powers the convertible concept.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "engine",
+        "e2_contents": "concept",
+        "id": "original:7995"
+    },
+    {
+        "sent": "When the notice is sent by fax, the notice is not deemed received until 3 days after faxing it.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "notice",
+        "e2_contents": "fax",
+        "id": "original:7996"
+    },
+    {
+        "sent": "The herbicide is derived from a natural antibiotic, which is produced by two strains of a soil bacterium.",
+        "relation_type": 4,
+        "is_active": 1,
+        "e1_contents": "herbicide",
+        "e2_contents": "antibiotic",
+        "id": "original:7997"
+    },
+    {
+        "sent": "To test this, we placed a kitchen match in the jar instead of the candle, lit the match, screwed on the lid and dropped the jar.",
+        "relation_type": 5,
+        "is_active": 1,
+        "e1_contents": "match",
+        "e2_contents": "jar",
+        "id": "original:7998"
+    },
+    {
+        "sent": "The farmers and city officials in the region have tried to get state money to move the farmers market into a first-class operation and tourist attraction.",
+        "relation_type": 9,
+        "is_active": 0,
+        "e1_contents": "farmers",
+        "e2_contents": "market",
+        "id": "original:7999"
+    },
+    {
+        "sent": "The surgeon cuts a small hole in the skull and lifts the edge of the brain to expose the nerve.",
+        "relation_type": 2,
+        "is_active": 0,
+        "e1_contents": "surgeon",
+        "e2_contents": "hole",
+        "id": "original:8000"
+    }
+]
