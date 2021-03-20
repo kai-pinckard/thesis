@@ -27,7 +27,7 @@ else:
 
 import json
 
-with open("\\Users\\kaidpinck\\thesis\\thesis\\classifier\\semeval2010task8\\semeval_datasetV2.json", "r") as f:
+with open("../classifier/semeval2010task8/semeval_datasetV2.json", "r") as f:
     data = json.load(f)
 print(data)
 
@@ -67,11 +67,11 @@ labels[0]
 # In[6]:
 
 
-from transformers import BertTokenizer
+from transformers import AlbertTokenizer
 
 # Load the BERT tokenizer.
 print('Loading BERT tokenizer...')
-tokenizer = BertTokenizer.from_pretrained('bert-large-uncased', do_lower_case=True)
+tokenizer = AlbertTokenizer.from_pretrained('albert-xxlarge-v2', do_lower_case=True)
 
 
 # In[7]:
@@ -176,7 +176,7 @@ from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 # The DataLoader needs to know our batch size for training, so we specify it 
 # here. For fine-tuning BERT on a specific task, the authors recommend a batch 
 # size of 16 or 32.
-batch_size = 32
+batch_size = 20
 
 # Create the DataLoaders for our training and validation sets.
 # We'll take training samples in random order. 
@@ -197,12 +197,12 @@ validation_dataloader = DataLoader(
 # In[12]:
 
 
-from transformers import BertForSequenceClassification, AdamW, BertConfig
+from transformers import AlbertForSequenceClassification, AdamW, AlbertConfig
 
 # Load BertForSequenceClassification, the pretrained BERT model with a single 
 # linear classification layer on top. 
-model = BertForSequenceClassification.from_pretrained(
-    "bert-base-uncased", # Use the 12-layer BERT model, with an uncased vocab.
+model = AlbertForSequenceClassification.from_pretrained(
+    "albert-xxlarge-v2", # Use the 12-layer BERT model, with an uncased vocab.
     num_labels = 2, # The number of output labels--2 for binary classification.
                     # You can increase this for multi-class tasks.   
     output_attentions = False, # Whether the model returns attentions weights.
@@ -232,7 +232,7 @@ from transformers import get_linear_schedule_with_warmup
 # Number of training epochs. The BERT authors recommend between 2 and 4. 
 # We chose to run for 4, but we'll see later that this may be over-fitting the
 # training data.
-epochs = 2
+epochs = 8 
 
 # Total number of training steps is [number of batches] x [number of epochs]. 
 # (Note that this is not the same as the number of training samples).
@@ -351,7 +351,7 @@ for epoch_i in range(0, epochs):
         # backward pass. PyTorch doesn't do this automatically because 
         # accumulating the gradients is "convenient while training RNNs". 
         # (source: https://stackoverflow.com/questions/48001598/why-do-we-need-to-call-zero-grad-in-pytorch)
-        model.zero_grad()        
+        model.zero_grad()
 
         # Perform a forward pass (evaluate the model on this training batch).
         # The documentation for this `model` function is here: 
@@ -360,10 +360,11 @@ for epoch_i in range(0, epochs):
         # arge given and what flags are set. For our useage here, it returns
         # the loss (because we provided labels) and the "logits"--the model
         # outputs prior to activation.
-        loss, logits = model(b_input_ids, 
+        outputs = model(b_input_ids, 
                              token_type_ids=None, 
                              attention_mask=b_input_mask, 
                              labels=b_labels)
+        loss, logits = outputs.loss, outputs.logits
 
         # Accumulate the training loss over all of the batches so that we can
         # calculate the average loss at the end. `loss` is a Tensor containing a
@@ -443,11 +444,11 @@ for epoch_i in range(0, epochs):
             # https://huggingface.co/transformers/v2.2.0/model_doc/bert.html#transformers.BertForSequenceClassification
             # Get the "logits" output by the model. The "logits" are the output
             # values prior to applying an activation function like the softmax.
-            (loss, logits) = model(b_input_ids, 
+            outputs = model(b_input_ids, 
                                    token_type_ids=None, 
                                    attention_mask=b_input_mask,
                                    labels=b_labels)
-            
+            loss, logits = outputs.loss, outputs.logits
         # Accumulate the validation loss.
         total_eval_loss += loss.item()
 
@@ -523,7 +524,7 @@ df_stats
 import pandas as pd
 
 # Load the dataset
-with open("\\Users\\kaidpinck\\thesis\\thesis\\classifier\\semeval2010task8\\semeval_dataset_testV2.json", "r") as f:
+with open("../classifier/semeval2010task8/semeval_dataset_testV2.json", "r") as f:
     test_data = json.load(f)
 
 # Report the number of sentences.
@@ -537,7 +538,7 @@ test_labels = [ item["relation_type"] for item in test_data]
 print(test_labels[0])
 # convert all relation type labels other than 0 to 1. This is used to train a classifier that only distinguishes between causal
 # and noncausal relations.
-
+exit()
 for i, test_label in enumerate(test_labels):
     if test_label == 0:
         continue
