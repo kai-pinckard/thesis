@@ -63,15 +63,14 @@ for i, label in enumerate(labels):
         
 labels[0]
 
-
 # In[6]:
 
 
-from transformers import AlbertTokenizer
+from transformers import BertTokenizer
 
 # Load the BERT tokenizer.
 print('Loading BERT tokenizer...')
-tokenizer = AlbertTokenizer.from_pretrained('albert-xxlarge-v2', do_lower_case=True)
+tokenizer = BertTokenizer.from_pretrained('bert-large-uncased', do_lower_case=True)
 
 
 # In[7]:
@@ -176,7 +175,7 @@ from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 # The DataLoader needs to know our batch size for training, so we specify it 
 # here. For fine-tuning BERT on a specific task, the authors recommend a batch 
 # size of 16 or 32.
-batch_size = 20
+batch_size = 32 
 
 # Create the DataLoaders for our training and validation sets.
 # We'll take training samples in random order. 
@@ -197,12 +196,12 @@ validation_dataloader = DataLoader(
 # In[12]:
 
 
-from transformers import AlbertForSequenceClassification, AdamW, AlbertConfig
+from transformers import BertForSequenceClassification, AdamW, BertConfig
 
 # Load BertForSequenceClassification, the pretrained BERT model with a single 
 # linear classification layer on top. 
-model = AlbertForSequenceClassification.from_pretrained(
-    "albert-xxlarge-v2", # Use the 12-layer BERT model, with an uncased vocab.
+model = BertForSequenceClassification.from_pretrained(
+    "bert-large-uncased", # Use the 12-layer BERT model, with an uncased vocab.
     num_labels = 2, # The number of output labels--2 for binary classification.
                     # You can increase this for multi-class tasks.   
     output_attentions = False, # Whether the model returns attentions weights.
