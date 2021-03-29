@@ -27,10 +27,10 @@ else:
 
 import json
 
-with open("../classifier/semeval2010task8/semeval_datasetV2.json", "r") as f:
+with open("../classifier/semeval2010task8/semeval_datasetV3.json", "r") as f:
     data = json.load(f)
 print(data)
-
+data = data[:-500]
 
 # In[3]:
 

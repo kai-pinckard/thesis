@@ -29,16 +29,16 @@ import json
 # semeval_datasetV2.json
 # semeval_chinese_combined_train.json
 
-with open("\\Users\\kaidpinck\\thesis\\thesis\\classifier\\semeval2010task8\\last_500_each_removed_chinese_and_origin_train.json", "r") as f:
+with open("../classifier/semeval2010task8/semeval_datasetV2.json", "r") as f:
     train_data = json.load(f)
 
 
-with open("\\Users\\kaidpinck\\thesis\\thesis\\classifier\\semeval2010task8\\last_500_original_only_validation.json", "r") as f:
+with open("../classifier/semeval2010task8/last_500_original_only_validation.json", "r") as f:
     val_data = json.load(f)
 
 
 # In[21]:
-
+train_data = train_data[:-500]
 
 train_sentences = [ item["sent"].lower() for item in train_data]
 print(train_sentences[0])
@@ -90,7 +90,7 @@ from transformers import BertTokenizer
 
 # Load the BERT tokenizer.
 print('Loading BERT tokenizer...')
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
+tokenizer = BertTokenizer.from_pretrained('bert-large-uncased', do_lower_case=True)
 
 
 
@@ -227,7 +227,7 @@ from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 # The DataLoader needs to know our batch size for training, so we specify it 
 # here. For fine-tuning BERT on a specific task, the authors recommend a batch 
 # size of 16 or 32.
-batch_size = 16
+batch_size = 32
 
 # Create the DataLoaders for our training and validation sets.
 # We'll take training samples in random order. 
@@ -253,7 +253,7 @@ from transformers import BertForSequenceClassification, AdamW, BertConfig
 # Load BertForSequenceClassification, the pretrained BERT model with a single 
 # linear classification layer on top. 
 model = BertForSequenceClassification.from_pretrained(
-    "bert-base-uncased", # Use the 12-layer BERT model, with an uncased vocab.
+    "bert-large-uncased", # Use the 12-layer BERT model, with an uncased vocab.
     num_labels = 2, # The number of output labels--2 for binary classification.
                     # You can increase this for multi-class tasks.   
     output_attentions = False, # Whether the model returns attentions weights.
@@ -411,11 +411,11 @@ for epoch_i in range(0, epochs):
         # arge given and what flags are set. For our useage here, it returns
         # the loss (because we provided labels) and the "logits"--the model
         # outputs prior to activation.
-        loss, logits = model(b_input_ids, 
+        outputs = model(b_input_ids, 
                              token_type_ids=None, 
                              attention_mask=b_input_mask, 
                              labels=b_labels)
-
+        loss, logits = outputs.loss, outputs.logits
         # Accumulate the training loss over all of the batches so that we can
         # calculate the average loss at the end. `loss` is a Tensor containing a
         # single value; the `.item()` function just returns the Python value 
@@ -494,11 +494,11 @@ for epoch_i in range(0, epochs):
             # https://huggingface.co/transformers/v2.2.0/model_doc/bert.html#transformers.BertForSequenceClassification
             # Get the "logits" output by the model. The "logits" are the output
             # values prior to applying an activation function like the softmax.
-            (loss, logits) = model(b_input_ids, 
+            outputs = model(b_input_ids, 
                                    token_type_ids=None, 
                                    attention_mask=b_input_mask,
                                    labels=b_labels)
-            
+            loss, logits = outputs.loss, outputs.logits
         # Accumulate the validation loss.
         total_eval_loss += loss.item()
 
