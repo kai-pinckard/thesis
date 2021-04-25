@@ -1,0 +1,2263 @@
+[
+    {
+        "sent": "Avian 0001 is an infectious disease of birds caused by type A strains of the 0001 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "influenza",
+        "e2_contents": "virus"
+    },
+    {
+        "sent": "The same 0001 is achieved the traditional 0002, with a team of workers like Keebler elves.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "effect",
+        "e2_contents": "way"
+    },
+    {
+        "sent": "Of the hundreds of strains of avian influenza A 0001, only four have caused human 0002: H5N1, H7N3, H7N7, and H9N2.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "viruses",
+        "e2_contents": "infections"
+    },
+    {
+        "sent": "The 0001 establishes a double majority 0002 for Council decisions.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "treaty",
+        "e2_contents": "rule"
+    },
+    {
+        "sent": "In South Africa, which has one of the best police to public ratios on the continent, the share of 0001 that result in a 0002 is about 18%, compared to 56% in the US and 61% in the UK.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "murders",
+        "e2_contents": "conviction"
+    },
+    {
+        "sent": "Traffic 0001 on the street outside had caused the 0002 of the light.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "vibrations",
+        "e2_contents": "movement"
+    },
+    {
+        "sent": "The 0001, which was triggered by an avalanche-control 0002, damaged one home and blocked the road for most of the day.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "slide",
+        "e2_contents": "crew"
+    },
+    {
+        "sent": "Muscle 0001 is the number one cause of arm muscle 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "fatigue",
+        "e2_contents": "pain"
+    },
+    {
+        "sent": "It spilled more than 53000 gallons of crude oil into the surrounding marshes one of the bigger 0001 caused by the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "spills",
+        "e2_contents": "hurricane"
+    },
+    {
+        "sent": "The 0001 are caused by 0002 on the X chromosome.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "diseases",
+        "e2_contents": "gene mutations"
+    },
+    {
+        "sent": "The pretexts offered were laughable, and the 0001 caused scarcely a 0002 on the flood of commentary on Washington's noble ",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "response",
+        "e2_contents": "ripple"
+    },
+    {
+        "sent": "Lisa took great 0001 from 0002, volunteering at school, taking pictures, chatting, the Twins and Vikings, playing softball and volleyball, and time at Lake Vermilion.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "joy",
+        "e2_contents": "laughing"
+    },
+    {
+        "sent": "The 0001 was outputting the same 0002 to my Deva 5.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "receiver",
+        "e2_contents": "tone"
+    },
+    {
+        "sent": "The presentation uses animation to show how germs and 0001 cause 0002, and outlines simple preventive measures.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "microbes",
+        "e2_contents": "sickness"
+    },
+    {
+        "sent": "As a result, 0001 from 0002 is causing serious health problems for Americans.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pollution",
+        "e2_contents": "cars"
+    },
+    {
+        "sent": "0001 caused 0002 of the event in 1877, so enforcement of the new law had to wait until 1878.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Rain",
+        "e2_contents": "cancellation"
+    },
+    {
+        "sent": "His trademark steam-engine puffing is revealed as a 0001 made by a 0002 spitting venom at his prey before swallowing her whole.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "sound",
+        "e2_contents": "viper"
+    },
+    {
+        "sent": "The deadly train 0001 was caused by terrorist 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "crash",
+        "e2_contents": "attack"
+    },
+    {
+        "sent": "All the decking on the ramps need to be replaced (for the second time) because of the 0001 caused by the 0002 of the facility.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "misuse"
+    },
+    {
+        "sent": "These types of scripts help visually impaired individuals to get more 0001 from 0002 because the action on-screen is described for them.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "enjoyment",
+        "e2_contents": "programming"
+    },
+    {
+        "sent": "Seasonal and nocturnal 0001 cause sleep 0002 in diurnal Swainson's thrush, Catharus ustulatus.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "migrations",
+        "e2_contents": "deprivation"
+    },
+    {
+        "sent": "The aircraft was written off in the 0001 due to the severe 0002 caused by the KLM aircraft, and the resulting fire.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "accident",
+        "e2_contents": "impact"
+    },
+    {
+        "sent": "The 0001 also resulted in several secondary 0002, leading Marines at the site to suspect that the house may have contained homemade bombs.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "airstrike",
+        "e2_contents": "explosions"
+    },
+    {
+        "sent": "The third 0001 has been caused by the highly polluted 0002 from the industrial park around the town of Kemalpasha.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "conflict",
+        "e2_contents": "wastewater"
+    },
+    {
+        "sent": "The Fujita Scale is used to rate the intensity of a 0002 by examining the 0001 caused by the 0002 after it has passed over a man-made structure.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "tornado"
+    },
+    {
+        "sent": "This is one of the more common causes of 0001 caused by 0002 and when you are losing hair because of this your hair stops growing and lies dormant.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "hair loss",
+        "e2_contents": "stress"
+    },
+    {
+        "sent": "The 0001 of the rainbow are caused by the 0002 of light as it passes through a prism.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "colors",
+        "e2_contents": "dispersion"
+    },
+    {
+        "sent": "I won't tell you how much music means now, in these times, when you are battling 0001 from 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "depression",
+        "e2_contents": "unemployment"
+    },
+    {
+        "sent": "The 0001 resulted in two more 0002 in the intersection, including a Central Concrete truck that was about to turn left onto College Ave.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "collision",
+        "e2_contents": "crashes"
+    },
+    {
+        "sent": "A good neck support pillow can be used while you are sleeping to remedy the neck 0001 which has been caused by the stresses and 0002 of your daily routine.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pain",
+        "e2_contents": "strains"
+    },
+    {
+        "sent": "The 0001 caused by a 0002 depends on the amount of energy which it transfers to the tissues.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "bullet"
+    },
+    {
+        "sent": "0001 (TN) is the most common cause of chronic sinusitis 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Neuralgia",
+        "e2_contents": "headache"
+    },
+    {
+        "sent": "The distribution of the 0001 caused by the 0002 in Valdivia in relation to the form of the terrane.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "earthquake"
+    },
+    {
+        "sent": "The 0001 has been caused by the Italian 0002 for vacuum tubes, which is valvole (or tubi a vuoto).",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "misinterpretation",
+        "e2_contents": "word"
+    },
+    {
+        "sent": "The current Iraqi government is seeking financial compensation from Israel for the 0001 caused by the 0002 of the Osirak nuclear reactor in 1981.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "bombing"
+    },
+    {
+        "sent": "The sheer scale of the 0001 and destruction caused by the 2004 Boxing Day 0002 is impossible to fathom, even five years on.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "death",
+        "e2_contents": "tsunami"
+    },
+    {
+        "sent": "As a guitarist I get so much 0001 from the 0002 and performing of music.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "satisfaction",
+        "e2_contents": "playing"
+    },
+    {
+        "sent": "In this paper, we propose a web-based system for prevention of the confidential information 0001 caused by the 0002 who is authorized to access.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "leakage",
+        "e2_contents": "person"
+    },
+    {
+        "sent": "Clinically, 0001 cause 0002 or fragility fractures.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "microcracks",
+        "e2_contents": "stress"
+    },
+    {
+        "sent": "Finally, Slone's 0001 of AIDS and the mental distress she suffered from this 0001 were caused by the needle 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fear",
+        "e2_contents": "stab"
+    },
+    {
+        "sent": "The 0001 caused by the 0002 is sometimes reported here as well.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "suffering",
+        "e2_contents": "embargo"
+    },
+    {
+        "sent": "Even 0001 is among the causes of water 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "nuclear energy",
+        "e2_contents": "pollution"
+    },
+    {
+        "sent": "Sorace was unaware that her 0001 was caused by the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "anger",
+        "e2_contents": "abuse"
+    },
+    {
+        "sent": "As people discovered that 0001 and overconsumption cause 0002 to families, the planet, and each of us, many turned instead to friends.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "debt",
+        "e2_contents": "stress"
+    },
+    {
+        "sent": "The drone 0001 that resulted in the 0002 of Pakistan's most wanted terrorist is believed to be a result of deliberately planted false intelligence, sources in South Waziristan have confirmed.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "strike",
+        "e2_contents": "death"
+    },
+    {
+        "sent": "The idea of Roman expansion into North Africa started with the 0001 and jealousy caused by the great economic 0002 of Carthage.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fear",
+        "e2_contents": "power"
+    },
+    {
+        "sent": "0001 are caused by the 0002 of the moon and sun, and the rotation of the Earth.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Tides",
+        "e2_contents": "gravitational pull"
+    },
+    {
+        "sent": "The dramatic 0001 we see in the sky are caused by 0002 that incinerate before they hit the ground.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "streaks",
+        "e2_contents": "particles"
+    },
+    {
+        "sent": "The 0001 from the extinguishers set off the 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "dust",
+        "e2_contents": "alarm"
+    },
+    {
+        "sent": "The drug has a low half-life that makes it ideal for killing of the susceptible 0001 responsible for sleeping 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "bacteria",
+        "e2_contents": "sickness"
+    },
+    {
+        "sent": "The 0001 from an ulcer is usually more severe than 0001 from 0002, often gnawing in nature, it sometimes goes through to the back.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pain",
+        "e2_contents": "indigestion"
+    },
+    {
+        "sent": "The kids get great 0001 from 0002 the tomatoes right off the vine.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "joy",
+        "e2_contents": "eating"
+    },
+    {
+        "sent": "0001 is one of the leading causes of 0002, long-term disability, and hospital admission in the industrialized world.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Stroke",
+        "e2_contents": "death"
+    },
+    {
+        "sent": "I still shiver as I remember trying to page through economics texts by the 0001 from 0002 while clad in overcoat, scarf, and little knitted gloves with the fingertips cut off, in the 4 p.m.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "flicker",
+        "e2_contents": "candles"
+    },
+    {
+        "sent": "The worst 0001 of all was caused by the 0002 to her head which was like the 0001 of thorns pressing into her.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pain",
+        "e2_contents": "torment"
+    },
+    {
+        "sent": "Overall, 0001 from 0002 is typically short in duration and easily managed.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "discomfort",
+        "e2_contents": "braces"
+    },
+    {
+        "sent": "The 0001 caused by the students, coupled with limited vision down the track, caused the 0002 to occur.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "distraction",
+        "e2_contents": "incident"
+    },
+    {
+        "sent": "Immediately a soft glow appeared on her lovely face as the 0001 was radiating from her soft winged 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "light",
+        "e2_contents": "friend"
+    },
+    {
+        "sent": "Four of the 0001 resulted in 0002: a 7-month-old in Gouverneur, N.Y.; a 7-month-old in New Iberia, La.; a 6-month-old in Summersville, W.Va.; and a 9-month-old in Bronx, N.Y.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "entrapments",
+        "e2_contents": "suffocation"
+    },
+    {
+        "sent": "0001 and earthquakes lead to the second-highest 0002 in insurance history.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Storms",
+        "e2_contents": "losses"
+    },
+    {
+        "sent": "Cobalt metal 0001 and dust cause 0002 of the nose and throat.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "fume",
+        "e2_contents": "irritation"
+    },
+    {
+        "sent": "Amateur video has been posted online that shows some of the 0001 caused by the tsunami 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "devastation",
+        "e2_contents": "waves"
+    },
+    {
+        "sent": "0001 is the abnormal growth of cells that causes 0002 in the body.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Cancer",
+        "e2_contents": "illness"
+    },
+    {
+        "sent": "The two trains caught 0001 after the 0002 and were burned.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fire",
+        "e2_contents": "collision"
+    },
+    {
+        "sent": "Seniors get much 0001 from 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "joy",
+        "e2_contents": "animals"
+    },
+    {
+        "sent": "I get tons of 0001 and joy from 0002 the little fur ball become the hunter it was bred to be.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "satisfaction",
+        "e2_contents": "watching"
+    },
+    {
+        "sent": "The 0001 was caused by the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pollution",
+        "e2_contents": "shipwreck"
+    },
+    {
+        "sent": "0001 of excessive concentrations of vapor, fumes, and/or dust produces 0002 of the upper respiratory trad.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Inhalation",
+        "e2_contents": "irritation"
+    },
+    {
+        "sent": "Air 0001 causes 0002 and respiratory problems when breathed.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "pollution",
+        "e2_contents": "smog"
+    },
+    {
+        "sent": "Until now, no paper has been presented on predicting the interior 0001 caused by a 0002 on the basis of hybrid TPA with a real vehicle.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "noise",
+        "e2_contents": "powertrain"
+    },
+    {
+        "sent": "World AIDS Day, observed December 1 each year, is dedicated to raising awareness of the AIDS 0001 caused by the spread of HIV 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pandemic",
+        "e2_contents": "infection"
+    },
+    {
+        "sent": "0001 and water cause 0002 and erosion to change the shape of the earth.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Wind",
+        "e2_contents": "weathering"
+    },
+    {
+        "sent": "The mentality is since oil and 0001 cause 0002, I'll just remove the oil off my face and kill the 0001.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "bacteria",
+        "e2_contents": "acne"
+    },
+    {
+        "sent": "In the last couple of years I have been working with my 0001 from 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fear",
+        "e2_contents": "darkness"
+    },
+    {
+        "sent": "A large 0001 triggered by the 0002 spread outward from off the Sumatran coast.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "tsunami",
+        "e2_contents": "earthquake"
+    },
+    {
+        "sent": "Lopez and Espinoza took plea 0001 that resulted in 0002 -- the completion of requirements such as community service and a fine during a probation period that ended with a clean slate and no conviction.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "agreements",
+        "e2_contents": "diversion"
+    },
+    {
+        "sent": "Cutler ended up with a bleeding stomach 0001 caused by the 0002 and hard work supervising their tours twenty-four hours a day.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "ulcer",
+        "e2_contents": "stress"
+    },
+    {
+        "sent": "0001 are caused by an 0002 for money combined with rational downward price rigidity.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Recessions",
+        "e2_contents": "excess demand"
+    },
+    {
+        "sent": "In the present 0001, which has been triggered by a 0002 in land prices, land-value taxation would reverse the 0002 - not by re-inflating a temporary speculative bubble, but by inducing investment in infrastructure that permanently enhances the utility of the land.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "recession",
+        "e2_contents": "collapse"
+    },
+    {
+        "sent": "0001 in the internal capsule caused proportional 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Lesions",
+        "e2_contents": "leg weakness"
+    },
+    {
+        "sent": "The 0001 caused the 0002 of the band's plans for overseas tours.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "death",
+        "e2_contents": "cancellation"
+    },
+    {
+        "sent": "Many 0001 have ensued from the new 0002, most of them unforeseen and based on ethnic differences.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "problems",
+        "e2_contents": "policy"
+    },
+    {
+        "sent": "The 0001 is the cause of 0002, including common uses, side effects, interactions and risks.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "bacteria",
+        "e2_contents": "pneumonia"
+    },
+    {
+        "sent": "The 0001 caused a 0002 on the wall that, through the lens of pareidolia, looked like a bearded man with a big afro hairdo.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "incoming water",
+        "e2_contents": "stain"
+    },
+    {
+        "sent": "The 0001 was caused by an 0002, such as a fall or something hitting your face.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "bleeding",
+        "e2_contents": "injury"
+    },
+    {
+        "sent": "Merlin Lindeman (animal sciences) then pooled their expertise to show that the 0001 caused the 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "caterpillars",
+        "e2_contents": "disease"
+    },
+    {
+        "sent": "They made the 0001 even more dramatic by 0002ing the talent with a 0002 placed on the floor and focused on the face.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "effect",
+        "e2_contents": "light"
+    },
+    {
+        "sent": "The thin F ring on the left of the image shows the 0001 caused by the 0002 Prometheus.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "perturbations",
+        "e2_contents": "moon"
+    },
+    {
+        "sent": "A recent book by Carmen M. Reinhart and Kenneth S. Rogoff, two economists, found that over the last century the typical 0001 had caused the 0002 in the country where it occurred to rise for almost five years.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "crisis",
+        "e2_contents": "jobless rate"
+    },
+    {
+        "sent": "We have recently determined the 0001 was (ironically) triggered by the SMART 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "corruption",
+        "e2_contents": "utilities"
+    },
+    {
+        "sent": "The life-like 0001 caused a real 0002 on the set when a 44-foot spinosaurus malfunctioned and began slamming its head against a prop plane.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "creatures",
+        "e2_contents": "scare"
+    },
+    {
+        "sent": "The 0001 caused a widespread 0002, largely on the Internet, in which rabbis and scholars from around the world participated.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "ban",
+        "e2_contents": "debate"
+    },
+    {
+        "sent": "He preserved the working ranches of the west, while achieving an 0001 of the ranch's value through 0002 and management of the recreational ecosystem within the ranch.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "expansion",
+        "e2_contents": "development"
+    },
+    {
+        "sent": "A really enjoyable drinking 0001 ensued from this red 0002 from this boutique winery from the Cowra area of Central Western NSW.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "experience",
+        "e2_contents": "blend"
+    },
+    {
+        "sent": "The 0001 was caused by the Iraqi fuel 0002 Zainab, suspected of smuggling around 1,300 tonnes of fuel oil from Iraq, as it ran into trouble on its way to a holding area in international waters.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "spill",
+        "e2_contents": "tanker"
+    },
+    {
+        "sent": "Use outdoor where 0001 and glare cause eye strain and 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "sunlight",
+        "e2_contents": "fatigue"
+    },
+    {
+        "sent": "Police investigators later found brake discs on the car were broken, though experts from the Italian car manufacturers insist the 0001 was caused by the 0002 and the car had been in perfect condition.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "collision"
+    },
+    {
+        "sent": "These wind 0001 generate 0002 from naturally occurring wind.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "turbines",
+        "e2_contents": "electricity"
+    },
+    {
+        "sent": "Aware of the 0001 caused by 0002, social injustice, stealing, and oppression, I am committed to cultivate loving kindness and learn ways to work for the well-being of people, animals, plants, and minerals.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "suffering",
+        "e2_contents": "exploitation"
+    },
+    {
+        "sent": "Witness the gangs in Los Angeles who stopped killing one another for a time after the 0001 triggered by the Rodney King bashing 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "riots",
+        "e2_contents": "verdict"
+    },
+    {
+        "sent": "From banishing 0001 and flu 0002 to preventing foodborne illnesses, frequent hand-washing is one of the smartest preventive habits you can adopt.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "cold",
+        "e2_contents": "germs"
+    },
+    {
+        "sent": "Human 0001 0002 is described by some as the key to slowing the aging process.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "growth",
+        "e2_contents": "hormone"
+    },
+    {
+        "sent": "The 0001 was caused by the 0002 of Donald Sumner, formerly Conservative MP for Orpington, to be a county court judge.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "election",
+        "e2_contents": "appointment"
+    },
+    {
+        "sent": "This was our first day back volunteering there but he wasn't feeling good, had a 0001 from 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fever",
+        "e2_contents": "immunizations"
+    },
+    {
+        "sent": "I found that the 0001 swirling around from the back, in between the front seats, caused a 0002 on the driver and passenger's necks.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "wind",
+        "e2_contents": "draft"
+    },
+    {
+        "sent": "The 0001 is caused by the gradual buildup of 0002 (CO2) in the atmosphere, dissolving into the oceans.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "acidity",
+        "e2_contents": "carbon dioxide"
+    },
+    {
+        "sent": "The European colonial 0001 to the Americas resulted in massive population 0002 from the Old World to the New World.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "expansion",
+        "e2_contents": "movements"
+    },
+    {
+        "sent": "The straight, blue ion 0001 is caused by the 0002 and the curved dust 0001 is caused by solar radiation pressure.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "tail",
+        "e2_contents": "solar wind"
+    },
+    {
+        "sent": "0001 or communicable diseases are caused by bacteria, viruses, and 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Infectious diseases",
+        "e2_contents": "parasites"
+    },
+    {
+        "sent": "On this basis, the vibronically coupled CD bands of lutein diacetate are attributed to an excitonic 0001 arose from the twisted nematic 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "interaction",
+        "e2_contents": "layers"
+    },
+    {
+        "sent": "The pension 0001 has been caused by the escalating 0002 of funding ",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "crisis",
+        "e2_contents": "cost"
+    },
+    {
+        "sent": "A third of the 0001 are caused by illegally obtained 0002, and burns account for half the 0001.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "injuries",
+        "e2_contents": "fireworks"
+    },
+    {
+        "sent": "In addition to the 0001 from cable 0002, analog terrestrial 0002 is now also subject to competition from satellite 0002 and distribution of video and film content over the Internet.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "threat",
+        "e2_contents": "television"
+    },
+    {
+        "sent": "0001 and drugs directly cause 0002 by significantly diminishing the reasoning of the person at the time of the 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Alcohol",
+        "e2_contents": "suicide"
+    },
+    {
+        "sent": "I write as both a doctor/Medical Director of the ME Association and as someone who suffers from the 0001, which was triggered by an attack of 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "illness",
+        "e2_contents": "chickenpox"
+    },
+    {
+        "sent": "I know plenty of people with oily skin and 0001 from the 0002 and they're in their 30s.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "wrinkles",
+        "e2_contents": "sun"
+    },
+    {
+        "sent": "Windmills kill birds and bats, while soil 0001 required to build solar and wind arrays lead to soil 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "disturbances",
+        "e2_contents": "erosion"
+    },
+    {
+        "sent": "The 0001 observed in the proband was derived from a postzygotic somatic 0002 of the normal maternal y chromosome.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "mosaicism",
+        "e2_contents": "mutation"
+    },
+    {
+        "sent": "The 0001 triggered by the 0002 implies that countries that hoarded reserves have been reaping the benefits.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "deleveraging",
+        "e2_contents": "crisis"
+    },
+    {
+        "sent": "Headaches, 0001, balance problems, and neck and back pain were caused by the work 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "dizziness",
+        "e2_contents": "injury"
+    },
+    {
+        "sent": "0001 is a common cause of 0002 and may occur when the casualty's heart rate is too slow to maintain sufficient blood pressure for the brain.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Fainting",
+        "e2_contents": "unconsciousness"
+    },
+    {
+        "sent": "Much like the 0001 that caused the 1918 flu 0002, this new H1N1 flu 0001 affects young adults and school children in greater numbers.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "virus",
+        "e2_contents": "pandemic"
+    },
+    {
+        "sent": "Heat 0001, or thermal 0001, are caused by steam, fire, hot objects or hot 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "burns",
+        "e2_contents": "liquids"
+    },
+    {
+        "sent": "0001 gives a 0002 too, but it's the most effective way to reel in heroin addicts into treatment and real life.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Methadone",
+        "e2_contents": "buzz"
+    },
+    {
+        "sent": "The 0001, caused by a 0002, came on the heels of a prolonged drought, which destroyed 60 percent of Fiji's sugar cane crop last year and cost more than 50 million Fijian dollars (25 million US) in relief and rehabilitation.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "flooding",
+        "e2_contents": "cyclone"
+    },
+    {
+        "sent": "0001 caused 0002 at the Charlotte Douglas International Airport Monday morning.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Fog",
+        "e2_contents": "delays"
+    },
+    {
+        "sent": "The accompanying inflammatory 0001 had caused the 0002 of the mid-CBD.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "process",
+        "e2_contents": "stricture"
+    },
+    {
+        "sent": "One of the most dreaded types of 0001 are contracture 0001 from 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "scars",
+        "e2_contents": "burns"
+    },
+    {
+        "sent": "0001 is one of the lead causes of 0002 in the world due to dirty water and felt this should be emphasized in global charity documentation.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Dehydration",
+        "e2_contents": "death"
+    },
+    {
+        "sent": "These 0001 cause sickness or an unpleasant 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "toxins",
+        "e2_contents": "odor"
+    },
+    {
+        "sent": "0001 causes 0002 on BW Parkway.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Accident",
+        "e2_contents": "delays"
+    },
+    {
+        "sent": "Children stand near houses in Padang that caught 0001 after the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fire",
+        "e2_contents": "earthquake"
+    },
+    {
+        "sent": "Individual donors make a significant difference in addressing the 0001 caused by the economic 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "suffering",
+        "e2_contents": "crisis"
+    },
+    {
+        "sent": "This is a yeast 0001 of the esophagus caused by the same 0002 that causes vaginal yeast 0001s.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "infection",
+        "e2_contents": "fungus"
+    },
+    {
+        "sent": "0001 is caused by infection by a variety of different 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Tonsillitis",
+        "e2_contents": "micro-organisms"
+    },
+    {
+        "sent": "0001 are caused by a 0002 contracting the diaphragm, a muscle essential in human respiration.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Hiccups",
+        "e2_contents": "spasm"
+    },
+    {
+        "sent": "0001 caused the majority of the 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Landslides",
+        "e2_contents": "deaths"
+    },
+    {
+        "sent": "0001 and wind cause 0002 in Los Angeles 11:24, October 15, 2009.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Rain",
+        "e2_contents": "power outage"
+    },
+    {
+        "sent": "He took a shower after using hair cream to avoid skin 0001 from the 0002 in the product.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "irritation",
+        "e2_contents": "chemicals"
+    },
+    {
+        "sent": "The 0001 comes from authorities and 0002 making him loose faith in humanity.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "humiliation",
+        "e2_contents": "people"
+    },
+    {
+        "sent": "The 0001 caused a 0002 on the Whangaparaoa Peninsula with people reporting the orca and rushing out to photograph and film them, from a safe distance.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "visit",
+        "e2_contents": "sensation"
+    },
+    {
+        "sent": "The constant polarization 0001 between the two electrodes instigates the electrochemical 0002 of the chlorine compounds on the working electrode.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "voltage",
+        "e2_contents": "reaction"
+    },
+    {
+        "sent": "Dust or 0001 cause burns or irritation of the eyes with 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "vapor",
+        "e2_contents": "swelling"
+    },
+    {
+        "sent": "Increased 0001 of landfill leachate after degradation was caused by 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "reproductive toxicity",
+        "e2_contents": "nitrite"
+    },
+    {
+        "sent": "A 0001 arose from an equivocal 0002 of the metastable 150-meV vibrational peak.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "controversy",
+        "e2_contents": "assignment"
+    },
+    {
+        "sent": "The alleged 0001 resulted in bruises and 0002 of the brain.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "abuse",
+        "e2_contents": "swelling"
+    },
+    {
+        "sent": "Picture of a woodcut portraying the 0001 caused by the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "harm",
+        "e2_contents": "quake"
+    },
+    {
+        "sent": "Bacterial 0001 of the ear result in 0002, excessive exudation (drainage of pus-like material), and ulceration.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "infections",
+        "e2_contents": "malodor"
+    },
+    {
+        "sent": "On the one hand, a small notorious set of bacteria, 0001, parasites, protozoa, and viruses cause 0002, as discussed in the two units of the book.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "fungi",
+        "e2_contents": "disease"
+    },
+    {
+        "sent": "The 0001 resulted in a great deal of bloodshed, including the 0002 of at least 1200 civilians and 180 Pakistani soldiers.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "clashes",
+        "e2_contents": "deaths"
+    },
+    {
+        "sent": "The 0001 are caused by 0002 and the chemical production and destruction of ozone.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "variations",
+        "e2_contents": "stratospheric winds"
+    },
+    {
+        "sent": "Much of the 0001 was caused by the 0002 of gangs.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "bloodshed",
+        "e2_contents": "growth"
+    },
+    {
+        "sent": "The 0001 caused by the 0002, which appears to show no sign of diminishing, and its negative impact on the living conditions in the affected areas, may be the principal reason for the increase in poor reported health.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "anxiety",
+        "e2_contents": "accident"
+    },
+    {
+        "sent": "The 0001 is going away from the 0002 at the group velocity Cg.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "energy",
+        "e2_contents": "source"
+    },
+    {
+        "sent": "This mild and relatively common form of 0001 is caused by 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "acne",
+        "e2_contents": "cosmetics"
+    },
+    {
+        "sent": "The 0001 was radiating from the 0002 of Jesus Christ.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "light",
+        "e2_contents": "face"
+    },
+    {
+        "sent": "The output 0001 was caused by the biasing 0002 and the shot 0001s of the base currents of Q1 and Q4.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "noise",
+        "e2_contents": "resistors"
+    },
+    {
+        "sent": "The only 0001 was from two 0002 of bulletproof glass.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "light",
+        "e2_contents": "turrets"
+    },
+    {
+        "sent": "The widespread opinion that both protein and 0001 cause 0002 is examined.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "phosphorus",
+        "e2_contents": "calcium loss"
+    },
+    {
+        "sent": "Ambient vanadium pentoxide 0001 produces 0002 of the eyes, nose and throat.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "dust",
+        "e2_contents": "irritation"
+    },
+    {
+        "sent": "The 0001 and pressure cause 0002 to occur.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "heat",
+        "e2_contents": "metamorphism"
+    },
+    {
+        "sent": "Dogs develop a 0001 from 0002 and/or pain such as in a severe flea infestation.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fever",
+        "e2_contents": "stress"
+    },
+    {
+        "sent": "The 0001 of the concrete on the soft materials caused a second ground 0002 on the following Sunday night.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "weight",
+        "e2_contents": "collapse"
+    },
+    {
+        "sent": "Every schoolchild is taught that the 0001 are caused by the 0002 in wind patterns when a large body of warm air rises.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "monsoons",
+        "e2_contents": "change"
+    },
+    {
+        "sent": "Both reached the same basic conclusion, that the ship had been destroyed by a magazine 0001 which was triggered by an external 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "explosion",
+        "e2_contents": "blast"
+    },
+    {
+        "sent": "But just think, 0001 leads to 0002 then 0002 leads to anger.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "sadness",
+        "e2_contents": "fear"
+    },
+    {
+        "sent": "By far the greatest 0001 has been caused by the illicit use of the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "hallucinogens"
+    },
+    {
+        "sent": "The symptoms of H1N1 0001 include fever, cough, sore throat, runny or stuffy nose, body aches, headache, 0002, fatigue, and possibly vomiting or diarrhea.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "flu",
+        "e2_contents": "chills"
+    },
+    {
+        "sent": "The full amount paid to Aardman for the 0001, which was triggered by an electrical 0002, was not disclosed.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "blaze",
+        "e2_contents": "fault"
+    },
+    {
+        "sent": "Most illnesses, including colds and 0001, cause a toxic overload that also increases the 0002 on the kidneys.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "flu",
+        "e2_contents": "stress"
+    },
+    {
+        "sent": "This case arises from a December 21, 2005 automobile 0001 that resulted in the 0002 of Larry Haynes.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "accident",
+        "e2_contents": "death"
+    },
+    {
+        "sent": "Two of my girls had the high 0001 from 0002, and our family doctor thought nothing of it.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fever",
+        "e2_contents": "vaccines"
+    },
+    {
+        "sent": "0001 is caused by 0002 and often has black or whiteheads, inflamed sores, and infected sores along with scars.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Acne",
+        "e2_contents": "oily skin"
+    },
+    {
+        "sent": "Excess oil, 0001 and bacteria cause 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "dirt",
+        "e2_contents": "acne"
+    },
+    {
+        "sent": "The proposed permanent 0001 establish 0002 and procedures for awarding grants to eligible applicants.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "rules",
+        "e2_contents": "criteria"
+    },
+    {
+        "sent": "The 0001 are caused by the 0002, or bending, of sunlight as it passes through the raindrops.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "rainbows",
+        "e2_contents": "refraction"
+    },
+    {
+        "sent": "The weekend snow 0001 caused 0002 of the Tornadoes' scheduled league game.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "storm",
+        "e2_contents": "cancellation"
+    },
+    {
+        "sent": "The response to the 0001 caused by the 0002, although institutionally organized, relied mostly on individuals joined in a common purpose rather than on an orchestrated effort by established hand binderies.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "harm",
+        "e2_contents": "flood"
+    },
+    {
+        "sent": "Larger 0001 provide standby 0002 for telephone exchanges or computer data centers.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "batteries",
+        "e2_contents": "power"
+    },
+    {
+        "sent": "The uterine 0001 are caused by 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "contractions",
+        "e2_contents": "prostaglandins"
+    },
+    {
+        "sent": "Slaanesh enjoys every aspect of experience, deriving 0001 from pain and 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pleasure",
+        "e2_contents": "suffering"
+    },
+    {
+        "sent": "A 0001 set off a smoke 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "cigarette",
+        "e2_contents": "alarm"
+    },
+    {
+        "sent": "Eighty-four percent of the 0001 resulted in patient 0002, while 16 percent resulted in a serious injury.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "complications",
+        "e2_contents": "deaths"
+    },
+    {
+        "sent": "So solar thermal power generation works essentially the same as generation from fossil fuels except that instead of using 0001 produced from the 0002 of fossil fuels, the 0001 is produced by the heat collected from sunlight.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "steam",
+        "e2_contents": "combustion"
+    },
+    {
+        "sent": "The 0001 are caused by 0002 going up one leg and returning down the other.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "shifts",
+        "e2_contents": "gas flows"
+    },
+    {
+        "sent": "0001 affecting the medial part of the premotor cortex, the SMA and sparing the precentral gyrus caused a contralateral 0002 predominating on the leg but predominating proximally on both leg and arm.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Lesions",
+        "e2_contents": "hemiparesis"
+    },
+    {
+        "sent": "Resulting 0001 caused 0002 of 15-20 minutes to Northeast Corridor, North Jersey Coast Line and Midtown Direct trains.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "congestion",
+        "e2_contents": "delays"
+    },
+    {
+        "sent": "KHZZ experienced 0001 from former oldies 0002 KHYL, but both 0002s ended up giving up the format, with KHZZ turning to oldies.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "competition",
+        "e2_contents": "station"
+    },
+    {
+        "sent": "A 0001 was generated by an electric 0002 between electrodes located in the focal plane of the lens and separated by ~ 1 cm from one another.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "plasma",
+        "e2_contents": "discharge"
+    },
+    {
+        "sent": "Several 0001 cause rash-fever 0002 that is commonly mistaken for measles.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "infections",
+        "e2_contents": "disease"
+    },
+    {
+        "sent": "The cause for the 0001 to over 30,000 was the 0002 in the economy triggered by a series of bankruptcies among banks and securities firms.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "jump",
+        "e2_contents": "deterioration"
+    },
+    {
+        "sent": "As the compressor on the frig turned on caused a voltage 0001 on the electrical line, which caused a 0002 in the ",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "spike",
+        "e2_contents": "glitch"
+    },
+    {
+        "sent": "0001 of the posterior horn of the medial meniscus produced a measurable amount of CMAP 0002 for the semimembranosus muscle.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Stimulation",
+        "e2_contents": "latency"
+    },
+    {
+        "sent": "Saosin shook himself off, 0001 from 0002 the smoke, and then stood up in an awkward fashion.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "coughing",
+        "e2_contents": "inhaling"
+    },
+    {
+        "sent": "A polio 0001 in Nigeria was caused by the 0002 designed to stop it, leaving at least 69 children paralyzed.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "outbreak",
+        "e2_contents": "vaccine"
+    },
+    {
+        "sent": "The 0001 of the tire against the pothole caused a 0002 on the tube that the repairman had to sew three stiches.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "impact",
+        "e2_contents": "slit"
+    },
+    {
+        "sent": "0001 and anxiety trigger 0002, however healthy people may experience 0002, but they are no that common.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Stress",
+        "e2_contents": "panic attacks"
+    },
+    {
+        "sent": "The 0001 was caused by the 0002 and the usual seasonal factors, with fruit and vegetable prices lower in the summer months.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "drop",
+        "e2_contents": "recession"
+    },
+    {
+        "sent": "The 0001 was caused by the 0002 Yesinia pestis, better known as The Bubonic Black Plague, which infected the flees on the Black rodents.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "pandemic",
+        "e2_contents": "virus"
+    },
+    {
+        "sent": "0001 and poverty cause 0002 of children and serious situations such as the breakdown of families where the rights of the child are easily infringe.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Unemployment",
+        "e2_contents": "abuse"
+    },
+    {
+        "sent": "0001 is caused by 0002 like fabrics, hair gels and makeup.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Acne",
+        "e2_contents": "irritants"
+    },
+    {
+        "sent": "0001 leads to 0002 with the job.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Sadness",
+        "e2_contents": "dissatisfaction"
+    },
+    {
+        "sent": "By 1945 the French electric 0001 was generating more 0002 than it had before the war.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "system",
+        "e2_contents": "power"
+    },
+    {
+        "sent": "That being said, I do love the game and play it all the time but would appreciate a little less 0001 from programming and 0002, and sticking strictly with the 0001 that comes from hitting bad shots.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "frustration",
+        "e2_contents": "debugging"
+    },
+    {
+        "sent": "You see and hear Hackman's 0001 after the dreadful 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "screaming",
+        "e2_contents": "shooting"
+    },
+    {
+        "sent": "Wind and 0001 0002 is confined to farmlands.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "water",
+        "e2_contents": "erosion"
+    },
+    {
+        "sent": "The human 0001 is one of the most common causes of these and most other types of 0002, and this is a virus that attacks the skin through direct contact.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "papillomavirus",
+        "e2_contents": "warts"
+    },
+    {
+        "sent": "The 0001 has been caused by a 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "crash",
+        "e2_contents": "meteor"
+    },
+    {
+        "sent": "The man was on his knees, sdiraya neck with the rope and 0001 from 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "coughing",
+        "e2_contents": "suffocation"
+    },
+    {
+        "sent": "The South China tigers are verging on the brink on 0001 from hunting and 0002, and these magestic animals are so close to being gone forever.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "extinction",
+        "e2_contents": "deforestation"
+    },
+    {
+        "sent": "0001 is one of the leading causes of respiratory 0002 in swine throughout the world.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Swine flu",
+        "e2_contents": "disease"
+    },
+    {
+        "sent": "The environmental and health consequences of the 0001 after the Chernobyl 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "evacuation",
+        "e2_contents": "accident"
+    },
+    {
+        "sent": "The Queen has expressed her shock at the 0001 caused by the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "devastation",
+        "e2_contents": "flooding"
+    },
+    {
+        "sent": "The 0001 caused a conservative 0002 on the Internet, but when Wanda visited The Tonight Show a few weeks later to talk about the dinner, she told Jay Leno that she didn't even know about the controversy.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "speech",
+        "e2_contents": "combustion"
+    },
+    {
+        "sent": "The pet was overly sensitive, and thus the 0001 and fleas caused rashes and 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "ticks",
+        "e2_contents": "discomfort"
+    },
+    {
+        "sent": "The 0001 resulted in an immediate regional 0002 over the apparent Colombian violation of Ecuadoran sovereignty, with both Ecuador and Venezuela mobilizing military forces.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "raid",
+        "e2_contents": "crisis"
+    },
+    {
+        "sent": "A 0001 establishing 0002 to the East Sussex countryside for disabled people draws to a close.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "scheme",
+        "e2_contents": "access"
+    },
+    {
+        "sent": "Comedy was employed in a cathartic role against the 0001, fear and grief caused by the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "tension",
+        "e2_contents": "fighting"
+    },
+    {
+        "sent": "Since 1972, when Jewish settler organizations were successful in falsely registering the land with the Israeli Land registrar, the family have suffered the 0001 and anxiety caused by the constant legal 0002 involved in fighting for the right to stay in the homes in which many of them were born.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "stress",
+        "e2_contents": "battles"
+    },
+    {
+        "sent": "All thirty of the patches sewn into the cloth in 1534 by the Poor Clare nuns to repair the 0001 caused by the 1532 0002 were removed.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "devastation",
+        "e2_contents": "fire"
+    },
+    {
+        "sent": "The 0001 was generated by an intense 0002 moving across drought-affected areas in South Australia and NSW.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "storm",
+        "e2_contents": "cold front"
+    },
+    {
+        "sent": "0001 are caused by 0002 (degenerative joint disease), subluxations, sprains, intervertebral disc.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Joint problems",
+        "e2_contents": "osteoarthitis"
+    },
+    {
+        "sent": "A 0001 0002 is diagnosed by looking closely through pubic hair for nits, nymphs, or adults.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "lice",
+        "e2_contents": "infestation"
+    },
+    {
+        "sent": "The 0001 caused a traffic 0002 on the ever busy bridge leading to diversions to other routes.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "accident",
+        "e2_contents": "snarl"
+    },
+    {
+        "sent": "I've suffered from an 0001 that has been caused by the negligence of another 0002, and I've filed an 0001 claim.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "injury",
+        "e2_contents": "person"
+    },
+    {
+        "sent": "Cells damaged or killed by flu result in the production of 0001 which is one of the most potent causes of 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "interferon",
+        "e2_contents": "fever"
+    },
+    {
+        "sent": "0001 from shoes and walking cause 0002 and the body's natural response is to build up the skin to protect it from breaking down.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Pressure",
+        "e2_contents": "friction"
+    },
+    {
+        "sent": "A mother carries her children inside a public school used as an evacuation center for victims of the 0001 caused by the continuous 0002 of Typhoon Ketsana, in the town of Tanay, Rizal east of Manila September 28, 2009.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "floods",
+        "e2_contents": "rains"
+    },
+    {
+        "sent": "The electron 0001 is generated by an explosive 0002 cathode.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "beam",
+        "e2_contents": "emission"
+    },
+    {
+        "sent": "Three people had been killed in a 0001 after the 0002 and hundreds of people were injured.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fire",
+        "e2_contents": "quake"
+    },
+    {
+        "sent": "Some have argued that the money the pirates demand is very little compared to the 0001 that has been caused by the toxic 0002, which includes nuclear 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "devastation",
+        "e2_contents": "waste"
+    },
+    {
+        "sent": "The paper reported a 'palpable sense of 0001' from the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "disappointment",
+        "e2_contents": "audience"
+    },
+    {
+        "sent": "Scientists warn that the 0001 caused by the fishing 0002 is irreparable.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "industry"
+    },
+    {
+        "sent": "These old power plants produce 0001 that causes smog, acid rain and global 0002, and they generate radioactive wastes and other toxic pollutants.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "pollution",
+        "e2_contents": "warming"
+    },
+    {
+        "sent": "Fetal alcohol spectrum 0001, or FASDs, are caused by 0002 alcohol during pregnancy.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "disorders",
+        "e2_contents": "drinking"
+    },
+    {
+        "sent": "Little Irish girl Becky called a 0001 0002 and asked if they would knock her school down.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "demolition",
+        "e2_contents": "company"
+    },
+    {
+        "sent": "Adam Smith's first 0001 of fame was gained from a series of public 0002 on rhetoric and belles lettres delivered in Edinburgh from 1748 to 1751.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "measure",
+        "e2_contents": "lectures"
+    },
+    {
+        "sent": "The 0001 caused a 0002 on the freeway for several miles northbound as cars were detoured to the Lost Hills Road exit and over to Agoura Road to head south on Las Virgenes.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "closure",
+        "e2_contents": "backup"
+    },
+    {
+        "sent": "The 0001 caused by the earthquake-generated 0002 is seen on the south coast of Western Samoa.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "devastation",
+        "e2_contents": "tsunami"
+    },
+    {
+        "sent": "0001 from 0002 happen when the entire depth of the skin is destroyed by heat.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Scars",
+        "e2_contents": "burns"
+    },
+    {
+        "sent": "To that end, the 0001 has established some local recreational 0002, including Laser Tag and paintball.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "coalition",
+        "e2_contents": "activities"
+    },
+    {
+        "sent": "The march's goal is to raise awareness of the 0001 caused by the Israeli 0002 and bring much needed humanitarian relief.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "crisis",
+        "e2_contents": "blockade"
+    },
+    {
+        "sent": "The truck carried homemade weapons, and the 0001 was caused by the 0002 of weapons.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "blast",
+        "e2_contents": "mishandling"
+    },
+    {
+        "sent": "Bread 0001 and mounting poverty cause 0002 in nearby Paris.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "shortages",
+        "e2_contents": "riots"
+    },
+    {
+        "sent": "Thursday afternoon the staff from the University of Wisconsin-Madison near Lake Mendota felt a shake and heard a 0001 like a boom which was triggered by an ice 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "noise",
+        "e2_contents": "quake"
+    },
+    {
+        "sent": "Chronic 0001 from 0002 increases the risk of developing a hernia.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "coughing",
+        "e2_contents": "smoking"
+    },
+    {
+        "sent": "The 0001 are caused by local 0002 trying to wring more money out of the feder.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "delays",
+        "e2_contents": "governments"
+    },
+    {
+        "sent": "Information about the foodborne 0001 caused by salmonella 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "illness",
+        "e2_contents": "bacteria"
+    },
+    {
+        "sent": "War and rural 0001 cause mass 0002 of people and often simultaneous growth of informal development.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "poverty",
+        "e2_contents": "migration"
+    },
+    {
+        "sent": "I'm close to taking a writing break myself - to mention the 0001 from 0002, but I got the Rosetta Stone Spanish CD;s a couple of years ago, and they've taken a back-seat in the priority list - not much time with work and the hubby and kids.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "frustration",
+        "e2_contents": "rejection"
+    },
+    {
+        "sent": "When the 0001 was generated via the 0002, the reproduced 0001 matched the original 0001 much more accurately.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "force",
+        "e2_contents": "joystick"
+    },
+    {
+        "sent": "In Sri Lanka, the 0001 resulted in 31187 deaths, 4280 missing people, 23189 injured people, and the 0002 of 545715 people.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "tsunami",
+        "e2_contents": "displacement"
+    },
+    {
+        "sent": "I have found that I have extremely sensitive skin and most 0001 cause rash or a 0002 if it has contact with my skin.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "cleaners",
+        "e2_contents": "burning sensation"
+    },
+    {
+        "sent": "Dry air, 0001 and wind dry out the nose and throat and cause 0002, coughing, wheezing, and other short-term respiratory problems.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "dust",
+        "e2_contents": "nosebleeds"
+    },
+    {
+        "sent": "0001 is among the top 10 causes of 0002 both among doctors as well as nursing professionals.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Depression",
+        "e2_contents": "suicide"
+    },
+    {
+        "sent": "The 0001 caused a 0002 on the left side of the neck which bled profusely.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "shot",
+        "e2_contents": "wound"
+    },
+    {
+        "sent": "0001 is caused by 0002 within the body, but there are many other contributing factors to acne outbreaks.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Acne",
+        "e2_contents": "hormonal imbalance"
+    },
+    {
+        "sent": "The 0001 causes 0002 in the joint.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "inflammation",
+        "e2_contents": "pain"
+    },
+    {
+        "sent": "Genetic 0001 are caused by the 0002 of a gene.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "disorders",
+        "e2_contents": "mutation"
+    },
+    {
+        "sent": "0001 is generated by an electrochemical 0002 of hydrogen and oxygen that yields as its by-product only heat and H2O.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Power",
+        "e2_contents": "reaction"
+    },
+    {
+        "sent": "The 0001 is generated by an 0002 of warmer air, similar to a terrestrial thunderhead.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "storm",
+        "e2_contents": "upwelling"
+    },
+    {
+        "sent": "Light blue shows the additional extent of an extreme 0001 from rivers or the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "flood",
+        "e2_contents": "sea"
+    },
+    {
+        "sent": "From the outset, the TV reporters started talking about two 0001s: the natural 0001 which was caused by the 0002 and the man-made 0001 which happened in New Orleans, the blame for which was laid at the hands of George Bush.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "disaster",
+        "e2_contents": "hurricane"
+    },
+    {
+        "sent": "Another reason for the impression of 0001 and optimism caused by many 0002 is their very nature as images of propaganda.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "energy",
+        "e2_contents": "posters"
+    },
+    {
+        "sent": "Timoshenko commented its 0001 after the 0002 of Putin about Yushchenko and Of.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "laughter",
+        "e2_contents": "joke"
+    },
+    {
+        "sent": "The 0001 caused a 0002 on the ground and destroyed several stalls.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "explosion",
+        "e2_contents": "crater"
+    },
+    {
+        "sent": "The video then shows the 0001 caused by the 0002 as it hit the north tower, follows the disintegrating plane through the interior, and then shows the airplane metal, ignited fuel, dust and smoke exiting the building on the opposite side.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "aircraft"
+    },
+    {
+        "sent": "A vehicle 0001 with a utility pole cause a 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "accident",
+        "e2_contents": "power outage"
+    },
+    {
+        "sent": "Colds and 0001 cause high 0002 in babies and toddlers, but with the 0001, the fever will last more than one or two days.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "flu",
+        "e2_contents": "fevers"
+    },
+    {
+        "sent": "During the first documented outbreak of human infections with H5N1, which occurred in Hong Kong in 1997, the 18 human cases coincided with an outbreak of highly pathogenic avian 0001, caused by a virtually identical 0002, in poultry farms and live markets.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "influenza",
+        "e2_contents": "virus"
+    },
+    {
+        "sent": "0001 from 0002 is a good sign of a healthy, happy life.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Wrinkles",
+        "e2_contents": "laughing"
+    },
+    {
+        "sent": "He has 0001 from darkness, ghosts, 0002 & being alone, of thunder, in the crowd, of death, of disease, of evil, that something may happen.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fear",
+        "e2_contents": "robbers"
+    },
+    {
+        "sent": "Much of the difference in the total 0001 caused by the Nisqually and the Northridge 0002 can be attributed to the Nisqually earthquake's location.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "damage",
+        "e2_contents": "earthquakes"
+    },
+    {
+        "sent": "Breast 0001 is caused by 0002 of the engorged glandular system of the breasts.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "abscess",
+        "e2_contents": "infection"
+    },
+    {
+        "sent": "The 0001 and cholesterol cause heart 0002; the animal protein causes cancer.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "fat",
+        "e2_contents": "disease"
+    },
+    {
+        "sent": "Later on that same day, an 0001 at the Farragut North station caused a 0002 on the tracks which shut down service three times over the course of the day.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "electrical short",
+        "e2_contents": "fire"
+    },
+    {
+        "sent": "The 0001 at the trial caused the 0002 of the Communist League, and a general dampening of revolutionary activity.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "events",
+        "e2_contents": "dissolution"
+    },
+    {
+        "sent": "The 0001 was caused by 0002 of the aromatic hydrocarbons.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "contamination",
+        "e2_contents": "residues"
+    },
+    {
+        "sent": "0001 is a disease of the respiratory system, which causes swelling and 0002 of the airways.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Asthma",
+        "e2_contents": "narrowing"
+    },
+    {
+        "sent": "The 0001 was caused by the 0002 of high pressure gas from a deep formation that got confined in the porthole of the well.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "incident",
+        "e2_contents": "entry"
+    },
+    {
+        "sent": "The 0001 caused a 0002 on the moon that acted to synchronize its rotation with its orbit, so that one side is always facing the earth.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "imbalance",
+        "e2_contents": "torque"
+    },
+    {
+        "sent": "Almost suddenly, I was overcome with an uncontrollable 0001 which was triggered by the 0002 of my friend.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "fear",
+        "e2_contents": "death"
+    },
+    {
+        "sent": "My 0001 of how the brain works is rooted in an evolutionary 0002 that moves from the fact that our mental life reflects the actions of many.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "view",
+        "e2_contents": "perspective"
+    },
+    {
+        "sent": "Among the first to survey the 0001 caused by the April 0002, the team discusses what they observed and learned from the damaged buildings.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "devastation",
+        "e2_contents": "earthquake"
+    },
+    {
+        "sent": "Known by the medical field as tinea cruris, jock itch is a persistent reddish, flaky, and itchy 0001 in the groin and around the anus caused by a 0002 on the skin.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "rash",
+        "e2_contents": "fungal imbalance"
+    },
+    {
+        "sent": "Each time a 0001 unleashes its tiny 0002, it needs to replenish its stores of energy for the next spark.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "neuron",
+        "e2_contents": "jolt"
+    },
+    {
+        "sent": "0001 are caused by the sudden 0002 of large volumes of water.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "Tsunamis",
+        "e2_contents": "displacement"
+    },
+    {
+        "sent": "Scientists have revealed how environmental 0001 such as air pollution and cigarette smoke which cause 0002 in people.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "irritants",
+        "e2_contents": "coughing"
+    },
+    {
+        "sent": "The recent 0001 has been caused by the environmentally-induced 0002 of fish catches from the Black Sea.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "decline",
+        "e2_contents": "collapse"
+    },
+    {
+        "sent": "0001, junk food, dirty skin, and stress cause 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Chocolates",
+        "e2_contents": "acne"
+    },
+    {
+        "sent": "I ended up going to the doctor, although it was just 0001 from 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "coughing",
+        "e2_contents": "allergies"
+    },
+    {
+        "sent": "Three times (every 1200 years), the gods were distressed by the 0001 from human 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "disturbance",
+        "e2_contents": "overpopulation"
+    },
+    {
+        "sent": "The 0001 of the game caused a 0002 on the web yesterday, with the Weekly Standard launching a protest campaign encouraging readers to e-mail Microsoft and T-Enterprise, the out-of-its-depth company that had hired actual Gitmo detainee Moazzam Begg as a consultant on the game.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "announcement",
+        "e2_contents": "stir"
+    },
+    {
+        "sent": "The fat and cholesterol cause heart disease; the animal 0001 causes 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "protein",
+        "e2_contents": "cancer"
+    },
+    {
+        "sent": "A method for computing the 0001 of the crust caused by the 0002 of large lakes.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "deformation",
+        "e2_contents": "filling"
+    },
+    {
+        "sent": "I had been constipated for over 30 years, had significant sleep requirements (average 9+ hours a night), and had recurring 0001 from fatigue and 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "headaches",
+        "e2_contents": "allergies"
+    },
+    {
+        "sent": "Social 0001 and poverty caused by civil 0002 in several African countries has caused further increases in the rate of prostitution in those countries.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "breakdown",
+        "e2_contents": "war"
+    },
+    {
+        "sent": "Since 0001 and poverty cause violence and 0002, the solution must be found in other than military action.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "hunger",
+        "e2_contents": "unrest"
+    },
+    {
+        "sent": "However, recent research demonstrates that most 0001 of the duodenum are caused by an 0002 named Helicobacter pylori or H. pylori.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "ulcers",
+        "e2_contents": "infectious agent"
+    },
+    {
+        "sent": "To alleviate the 0001 caused by the 0002, the Cabinet approved a plan to construct 11 passages through the barrier to facilitate movement in and out of the city.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "inconvenience",
+        "e2_contents": "fence"
+    },
+    {
+        "sent": "The sound 0001 cause disorientation and 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "waves",
+        "e2_contents": "nausea"
+    },
+    {
+        "sent": "The 0001 later caused a 0002, leaving Nathan completely paralyzed on the right side of his body.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "clot",
+        "e2_contents": "seizure"
+    },
+    {
+        "sent": "In ionic conduction charge carriers are affected by the electromagnetic 0001 from the 0002 by being attracted or repelled by the electric field.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "radiation",
+        "e2_contents": "microwaves"
+    },
+    {
+        "sent": "We already know ignorance, heat, 0001, greed and poverty cause 0002 even in the U.S.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "boredom",
+        "e2_contents": "violence"
+    },
+    {
+        "sent": "The 0001 with the door and the oiler caused a 0002 on the ship.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "struggle",
+        "e2_contents": "disturbance"
+    },
+    {
+        "sent": "Plaintiffs seek compensatory damages for personal injuries, property damage, emotional distress, and expenses resulting from the 0001 after the 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "evacuation",
+        "e2_contents": "explosion"
+    },
+    {
+        "sent": "The industry only reports 0001 that have resulted in serious physical 0002, and reporting is left up to the cruise line with no oversight.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "incidents",
+        "e2_contents": "injuries"
+    },
+    {
+        "sent": "This time, though, they left the 0002 unattended and the 0001 caused nearby leaves to catch 0002, spreading 14 feet to the building.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "wind",
+        "e2_contents": "fire"
+    },
+    {
+        "sent": "The 0001 arose from the light 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "complication",
+        "e2_contents": "irradiation"
+    },
+    {
+        "sent": "The 0001 resulted in the 0002 of 1318 in Hanoi.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "bombing",
+        "e2_contents": "deaths"
+    },
+    {
+        "sent": "The 0001 was caused by the illegal embedded code 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "error",
+        "e2_contents": "tags"
+    },
+    {
+        "sent": "Liver plays key role in how 0001 cause diabetes and 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "steroids",
+        "e2_contents": "hypertension"
+    },
+    {
+        "sent": "The poet Essex Hemphill conquered 0001 after the 0002 of a friend by taking up the cause of that friend.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "sorrow",
+        "e2_contents": "loss"
+    },
+    {
+        "sent": "The 0001 are caused by 0002, originating off the Pacific coast, cooling as they climb the western slopes, and then rapidly warming as they drop down the eastern side of the mountains.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "winds",
+        "e2_contents": "moisture"
+    },
+    {
+        "sent": "The 0001 caused by the Earth's 0002 works against a rocket or a water molecule.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "drag",
+        "e2_contents": "atmosphere"
+    },
+    {
+        "sent": "0001 is the cause of pelvic pain (dysmenorrhea, dyspareunia) and 0002 in more than 35% of women of reproductive age.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "Endometriosis",
+        "e2_contents": "infertility"
+    },
+    {
+        "sent": "Most of the 0001 has been caused by the 0002 of drains.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "flooding",
+        "e2_contents": "clogging"
+    },
+    {
+        "sent": "The 0001 are caused by the thermal diffuse of 0002 which is reflected secondarily by the net planes in the same crystal.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "dips",
+        "e2_contents": "y-rays"
+    },
+    {
+        "sent": "The JNC also is currently accepting applications for the 0001 created by the 0002 of Judge Edwin B. Browning, Jr.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "vacancy",
+        "e2_contents": "retirement"
+    },
+    {
+        "sent": "The evening's 0001 was a great production by a first-class 0002 - and not expensive.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "performance",
+        "e2_contents": "company"
+    },
+    {
+        "sent": "Two of the 0001 resulted in fatal CO 0002 (COHb levels of 55% and 49% ).",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "incidents",
+        "e2_contents": "poisonings"
+    },
+    {
+        "sent": "In this excellent fourth Sunny Randall PI tale (after Shrink Rap), is shown how 0001 leads to 0002.",
+        "relation_type": 0,
+        "is_active": 1,
+        "e1_contents": "sadness",
+        "e2_contents": "murder"
+    },
+    {
+        "sent": "She was looking beautiful in the dim 0001 that emanated from my broken 0002.",
+        "relation_type": 0,
+        "is_active": 0,
+        "e1_contents": "light",
+        "e2_contents": "table-lamp"
+    }
+]
