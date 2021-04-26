@@ -247,9 +247,9 @@ correct = []
 incorrect = []
 for i, prediction in enumerate(flat_predictions):
     if prediction == flat_true_labels[i]:
-        correct.append([prediction, i])
+        correct.append([int(prediction), i])
     else:
-        incorrect.append([prediction, i])
+        incorrect.append([int(prediction), i])
 
 storage = {}
 storage["correct"] = correct
