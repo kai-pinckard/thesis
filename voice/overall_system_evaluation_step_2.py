@@ -45,7 +45,7 @@ from transformers import RobertaForSequenceClassification, AdamW, RobertaConfig
 # Load BertForSequenceClassification, the pretrained BERT model with a single 
 # linear classification layer on top. 
 model = RobertaForSequenceClassification.from_pretrained(
-    './step_1_casual_sentence_classifier_model', # use my stored model
+    './step_2_casual_sentence_classifier_model', # use my stored model
     num_labels = 2, # The number of output labels--2 for binary classification.
                     # You can increase this for multi-class tasks.   
     output_attentions = False, # Whether the model returns attentions weights.
