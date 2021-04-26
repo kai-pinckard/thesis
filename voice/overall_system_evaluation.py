@@ -65,10 +65,6 @@ from transformers import get_linear_schedule_with_warmup
 # training data.
 epochs = 2 
 
-# Total number of training steps is [number of batches] x [number of epochs]. 
-# (Note that this is not the same as the number of training samples).
-total_steps = len(train_dataloader) * epochs
-
 # Create the learning rate scheduler.
 scheduler = get_linear_schedule_with_warmup(optimizer, 
                                             num_warmup_steps = 0, # Default value in run_glue.py
