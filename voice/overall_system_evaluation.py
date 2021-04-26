@@ -50,27 +50,6 @@ model = RobertaForSequenceClassification.from_pretrained(
 # Tell pytorch to run this model on the GPU.
 model.cuda()
 
-
-# Note: AdamW is a class from the huggingface library (as opposed to pytorch) 
-# I believe the 'W' stands for 'Weight Decay fix"
-optimizer = AdamW(model.parameters(),
-                  lr = 2e-5, # args.learning_rate - default is 5e-5, our notebook had 2e-5
-                  eps = 1e-8 # args.adam_epsilon  - default is 1e-8.
-                )
-
-from transformers import get_linear_schedule_with_warmup
-
-# Number of training epochs. The BERT authors recommend between 2 and 4. 
-# We chose to run for 4, but we'll see later that this may be over-fitting the
-# training data.
-epochs = 2 
-
-# Create the learning rate scheduler.
-scheduler = get_linear_schedule_with_warmup(optimizer, 
-                                            num_warmup_steps = 0, # Default value in run_glue.py
-                                            num_training_steps = total_steps)
-
-
 import numpy as np
 
 # Function to calculate the accuracy of our predictions vs labels
