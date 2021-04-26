@@ -92,7 +92,7 @@ import pandas as pd
 pd.set_option('precision', 2)
 
 # Load the dataset
-with open("../classifier/semeval2010task8/semeval_testV4_step2.json", "r") as f:
+with open("../classifier/semeval2010task8/semeval_train_set_step_3V4.json", "r") as f:
     test_data = json.load(f)
 
 # Report the number of sentences.
