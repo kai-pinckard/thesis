@@ -234,10 +234,19 @@ for i in range(len(true_labels)):
 # In[29]:
 
 
+# Combine the results across all batches. 
+flat_predictions = np.concatenate(predictions, axis=0)
+
+# For each sample, pick the label (0 or 1) with the higher score.
+flat_predictions = np.argmax(flat_predictions, axis=1).flatten()
+
+# Combine the correct labels for each batch into a single list.
+flat_true_labels = np.concatenate(true_labels, axis=0)
+
 correct = []
 incorrect = []
-for i, prediction in enumerate(predictions):
-    if prediction == true_labels[i]:
+for i, prediction in enumerate(flat_predictions):
+    if prediction == flat_true_labels[i]:
         correct.append([prediction, i])
     else:
         incorrect.append([prediction, i])
@@ -248,16 +257,6 @@ storage["incorrect"] = incorrect
 
 with open("step_1_results", "w") as f:
     json.dump(storage, f, indent=4)
-
-
-# Combine the results across all batches. 
-flat_predictions = np.concatenate(predictions, axis=0)
-
-# For each sample, pick the label (0 or 1) with the higher score.
-flat_predictions = np.argmax(flat_predictions, axis=1).flatten()
-
-# Combine the correct labels for each batch into a single list.
-flat_true_labels = np.concatenate(true_labels, axis=0)
 
 
 num_correct = 0
