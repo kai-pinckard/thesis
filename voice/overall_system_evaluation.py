@@ -234,8 +234,8 @@ for i in range(len(true_labels)):
 # In[29]:
 
 
-correct_1 = []
-incorrect_2 = []
+correct = []
+incorrect = []
 for i, prediction in enumerate(predictions):
     if prediction == true_labels[i]:
         correct.append([prediction, i])
@@ -243,8 +243,8 @@ for i, prediction in enumerate(predictions):
         incorrect.append([prediction, i])
 
 storage = {}
-storage["correct"] = correct_1
-storage["incorrect"] = incorrect_1
+storage["correct"] = correct
+storage["incorrect"] = incorrect
 
 with open("step_1_results", "w") as f:
     json.dump(storage, f, indent=4)
