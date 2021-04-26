@@ -27,10 +27,9 @@ else:
 
 import json
 
-with open("../classifier/semeval2010task8/semeval_datasetV3.json", "r") as f:
+with open("../classifier/semeval2010task8/augmented_candidate_causal_only.json", "r") as f:
     data = json.load(f)
 print(data)
-data = data[:-500]
 
 # In[3]:
 
@@ -42,7 +41,8 @@ sentences[0]
 # In[4]:
 
 
-labels = [ item["relation_type"] for item in data]
+labels = [ int(bool(item["relation_type"])) for item in data]
+
 labels[0]
 
 
@@ -55,13 +55,9 @@ labels[0]
 # convert all relation type labels other than 0 to 1. This is used to train a classifier that only distinguishes between causal
 # and noncausal relations.
 
-for i, label in enumerate(labels):
-    if label == 0:
-        continue
-    else:
-        labels[i] = 1
-        
-labels[0]
+
+
+
 
 # In[6]:
 

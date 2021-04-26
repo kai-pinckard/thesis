@@ -150,18 +150,6 @@ from torch.utils.data import TensorDataset, random_split
 # Combine the training inputs into a TensorDataset.
 dataset = TensorDataset(input_ids, attention_masks, labels)
 
-# Create a 90-10 train-validation split.
-
-# Calculate the number of samples to include in each set.
-train_size = int(0.9 * len(dataset))
-val_size = len(dataset) - train_size
-
-# Divide the dataset by randomly selecting samples.
-train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
-
-print('{:>5,} training samples'.format(train_size))
-print('{:>5,} validation samples'.format(val_size))
-
 
 # In[11]:
 
@@ -176,19 +164,10 @@ batch_size = 32
 # Create the DataLoaders for our training and validation sets.
 # We'll take training samples in random order. 
 train_dataloader = DataLoader(
-            train_dataset,  # The training samples.
-            sampler = RandomSampler(train_dataset), # Select batches randomly
+            dataset,  # The training samples.
+            sampler = RandomSampler(dataset), # Select batches randomly
             batch_size = batch_size # Trains with this batch size.
         )
-
-# For validation the order doesn't matter, so we'll just read them sequentially.
-validation_dataloader = DataLoader(
-            val_dataset, # The validation samples.
-            sampler = SequentialSampler(val_dataset), # Pull out batches sequentially.
-            batch_size = batch_size # Evaluate with this batch size.
-        )
-
-
 # In[12]:
 
 
@@ -227,7 +206,7 @@ from transformers import get_linear_schedule_with_warmup
 # Number of training epochs. The BERT authors recommend between 2 and 4. 
 # We chose to run for 4, but we'll see later that this may be over-fitting the
 # training data.
-epochs = 12 
+epochs = 2 
 
 # Total number of training steps is [number of batches] x [number of epochs]. 
 # (Note that this is not the same as the number of training samples).
@@ -405,68 +384,10 @@ for epoch_i in range(0, epochs):
 
     # Put the model in evaluation mode--the dropout layers behave differently
     # during evaluation.
-    model.eval()
-
-    # Tracking variables 
-    total_eval_accuracy = 0
-    total_eval_loss = 0
-    nb_eval_steps = 0
-
-    # Evaluate data for one epoch
-    for batch in validation_dataloader:
         
-        # Unpack this training batch from our dataloader. 
-        #
-        # As we unpack the batch, we'll also copy each tensor to the GPU using 
-        # the `to` method.
-        #
-        # `batch` contains three pytorch tensors:
-        #   [0]: input ids 
-        #   [1]: attention masks
-        #   [2]: labels 
-        b_input_ids = batch[0].to(device)
-        b_input_mask = batch[1].to(device)
-        b_labels = batch[2].to(device)
-        
-        # Tell pytorch not to bother with constructing the compute graph during
-        # the forward pass, since this is only needed for backprop (training).
-        with torch.no_grad():        
-
-            # Forward pass, calculate logit predictions.
-            # token_type_ids is the same as the "segment ids", which 
-            # differentiates sentence 1 and 2 in 2-sentence tasks.
-            # The documentation for this `model` function is here: 
-            # https://huggingface.co/transformers/v2.2.0/model_doc/bert.html#transformers.BertForSequenceClassification
-            # Get the "logits" output by the model. The "logits" are the output
-            # values prior to applying an activation function like the softmax.
-            outputs = model(b_input_ids, 
-                                   token_type_ids=None, 
-                                   attention_mask=b_input_mask,
-                                   labels=b_labels)
-            loss, logits = outputs.loss, outputs.logits
-        # Accumulate the validation loss.
-        total_eval_loss += loss.item()
-
-        # Move logits and labels to CPU
-        logits = logits.detach().cpu().numpy()
-        label_ids = b_labels.to('cpu').numpy()
-
-        # Calculate the accuracy for this batch of test sentences, and
-        # accumulate it over all batches.
-        total_eval_accuracy += flat_accuracy(logits, label_ids)
-        
-
-    # Report the final accuracy for this validation run.
-    avg_val_accuracy = total_eval_accuracy / len(validation_dataloader)
-    print("  Accuracy: {0:.2f}".format(avg_val_accuracy))
-
-    # Calculate the average loss over all of the batches.
-    avg_val_loss = total_eval_loss / len(validation_dataloader)
-    
     # Measure how long the validation run took.
     validation_time = format_time(time.time() - t0)
     
-    print("  Validation Loss: {0:.2f}".format(avg_val_loss))
     print("  Validation took: {:}".format(validation_time))
 
     # Record all statistics from this epoch.
@@ -474,8 +395,6 @@ for epoch_i in range(0, epochs):
         {
             'epoch': epoch_i + 1,
             'Training Loss': avg_train_loss,
-            'Valid. Loss': avg_val_loss,
-            'Valid. Accur.': avg_val_accuracy,
             'Training Time': training_time,
             'Validation Time': validation_time
         }
@@ -519,7 +438,7 @@ df_stats
 import pandas as pd
 
 # Load the dataset
-with open("../classifier/semeval2010task8/semeval_testV4.json", "r") as f:
+with open("../classifier/semeval2010task8/semeval_testV4_step2.json", "r") as f:
     test_data = json.load(f)
 
 # Report the number of sentences.
@@ -533,7 +452,6 @@ test_labels = [ item["relation_type"] for item in test_data]
 print(test_labels[0])
 # convert all relation type labels other than 0 to 1. This is used to train a classifier that only distinguishes between causal
 # and noncausal relations.
-exit()
 for i, test_label in enumerate(test_labels):
     if test_label == 0:
         continue
@@ -615,6 +533,88 @@ predictions , true_labels = [], []
 
 # Predict 
 for batch in prediction_dataloader:
+  # Add batch to GPU
+  batch = tuple(t.to(device) for t in batch)
+  
+  # Unpack the inputs from our dataloader
+  b_input_ids, b_input_mask, b_labels = batch
+  
+  # Telling the model not to compute or store gradients, saving memory and 
+  # speeding up prediction
+  with torch.no_grad():
+      # Forward pass, calculate logit predictions
+      outputs = model(b_input_ids, token_type_ids=None, 
+                      attention_mask=b_input_mask)
+
+  logits = outputs[0]
+
+  # Move logits and labels to CPU
+  logits = logits.detach().cpu().numpy()
+  label_ids = b_labels.to('cpu').numpy()
+  
+  # Store predictions and true labels
+  predictions.append(logits)
+  true_labels.append(label_ids)
+
+print('    DONE.')
+
+
+# In[25]:
+
+
+# In[26]:
+
+
+
+
+num_causal_sents = 0
+for test_label in test_labels:
+    if test_label == 0:
+        num_causal_sents += 1
+percent_causal = num_causal_sents / len(test_labels.tolist())
+
+print("Positive samples:", num_causal_sents, percent_causal)
+
+
+# In[27]:
+
+
+from sklearn.metrics import matthews_corrcoef
+
+matthews_set = []
+
+# Evaluate each test batch using Matthew's correlation coefficient
+print('Calculating Matthews Corr. Coef. for each batch...')
+
+# For each input batch...
+for i in range(len(true_labels)):
+  
+  # The predictions for this batch are a 2-column ndarray (one column for "0" 
+  # and one column for "1"). Pick the label with the highest value and turn this
+  # in to a list of 0s and 1s.
+  pred_labels_i = np.argmax(predictions[i], axis=1).flatten()
+  
+  # Calculate and store the coef for this batch.  
+  matthews = matthews_corrcoef(true_labels[i], pred_labels_i)                
+  matthews_set.append(matthews)
+
+
+# In[29]:
+
+
+# Combine the results across all batches. 
+flat_predictions = np.concatenate(predictions, axis=0)
+
+# For each sample, pick the label (0 or 1) with the higher score.
+flat_predictions = np.argmax(flat_predictions, axis=1).flatten()
+
+# Combine the correct labels for each batch into a single list.
+flat_true_labels = np.concatenate(true_labels, axis=0)
+
+
+num_correct = 0
+for i, pred in enumerate(flat_predictions):
+    if pred == flat_true_labels[i]:
         num_correct += 1
 print("overall num correct", num_correct)
 num_sents = len(flat_predictions)
@@ -658,7 +658,7 @@ import os
 
 # Saving best-practices: if you use defaults names for the model, you can reload it using from_pretrained()
 
-output_dir = './step_1_casual_sentence_classifier_model'
+output_dir = './step_2_casual_sentence_classifier_model'
 
 # Create output directory if needed
 if not os.path.exists(output_dir):

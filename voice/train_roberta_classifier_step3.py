@@ -27,7 +27,7 @@ else:
 
 import json
 
-with open("../classifier/semeval2010task8/semeval_trainV4_step2.json", "r") as f:
+with open("../classifier/semeval2010task8/semeval_train_set_step_3V4.json", "r") as f:
     data = json.load(f)
 print(data)
 
@@ -41,7 +41,7 @@ sentences[0]
 # In[4]:
 
 
-labels = [ int(bool(item["relation_type"])) for item in data]
+labels = [ int(bool(item["is_active"])) for item in data]
 
 labels[0]
 
